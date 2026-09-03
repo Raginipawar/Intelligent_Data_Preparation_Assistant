@@ -9,7 +9,7 @@ import time
 
 from fastapi.testclient import TestClient
 
-from app.main import app
+from app.suggestion_api import app
 
 client = TestClient(app)
 

@@ -11,7 +11,7 @@ from __future__ import annotations
 
 from typing import Any, Dict, List
 
-from app.schemas import Suggestion, SuggestionType
+from app.suggestion_schemas import Suggestion, SuggestionType
 
 
 def build_scaling_suggestions(distributions: Dict[str, Any], outliers: Dict[str, Any]) -> List[Suggestion]:

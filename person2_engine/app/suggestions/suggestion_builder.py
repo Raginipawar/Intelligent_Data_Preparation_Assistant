@@ -15,8 +15,8 @@ from typing import Any, Dict, List, Optional
 
 import pandas as pd
 
-from app import config
-from app.schemas import Suggestion, SuggestionType
+from app import suggestion_config as config
+from app.suggestion_schemas import Suggestion, SuggestionType
 from app.suggestions.automl_enrichment import run_autogluon_feature_enrichment, try_auto_sklearn_peek
 from app.suggestions.binning_rules import build_binning_suggestions
 from app.suggestions.encoding_rules import build_encoding_suggestions

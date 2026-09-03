@@ -8,7 +8,7 @@ Run: pytest -v tests/test_pipeline.py
 import pytest
 
 from app.health_report_client import HealthReportUnavailable
-from app.pipeline import run_suggestion_job
+from app.suggestion_pipeline import run_suggestion_job
 from app.suggestions.suggestion_builder import generate_suggestions
 
 
@@ -57,7 +57,7 @@ def test_pipeline_uses_inline_report_without_touching_disk(health_report):
     assert result["dataset_id"] == "ds1"
     assert result["job_id"] == "sjob1"
 
-    from app import config
+    from app import suggestion_config as config
 
     output_path = config.SUGGESTIONS_DIR / "sjob1.json"
     assert output_path.exists()

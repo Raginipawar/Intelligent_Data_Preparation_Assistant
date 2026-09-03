@@ -10,7 +10,7 @@ for d in (STORAGE_DIR, SUGGESTIONS_DIR, JOBS_DIR):
     d.mkdir(parents=True, exist_ok=True)
 
 # "memory"  -> in-process ThreadPoolExecutor, zero external dependencies (default).
-# "celery"  -> Celery + Redis, same opt-in pattern Person 1 defined in app/jobs/queue.py.
+# "celery"  -> Celery + Redis, same opt-in pattern Person 1 defined in person1_engine/app/jobs/queue.py.
 JOB_QUEUE_BACKEND = os.environ.get("JOB_QUEUE_BACKEND", "memory")
 CELERY_BROKER_URL = os.environ.get("CELERY_BROKER_URL", "redis://localhost:6379/0")
 # Different Redis result-backend DB index than Person 1's (../person1_engine uses /1),

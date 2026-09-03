@@ -4,6 +4,17 @@ Consumes Person 1's **Dataset Health Report** and turns it into a ranked,
 reasoned **Suggestion List** — the contract Person 3's apply/execute layer
 consumes next.
 
+**Naming:** every module under `app/` is prefixed `suggestion_*`
+(`suggestion_api.py`, `suggestion_config.py`, `suggestion_schemas.py`,
+`suggestion_pipeline.py`, `app/jobs/suggestion_job_queue.py`,
+`app/jobs/suggestion_job_record.py`) so it's unambiguous at a glance — in a
+file tree, a diff, or an IDE tab — that this is Person 2's own code, not a
+copy of `person1_engine`'s `main.py`/`config.py`/`schemas.py`. The one
+deliberate exception is the `get_job_queue()` *function name and interface*
+inside `suggestion_job_queue.py`, which intentionally matches Person 1's — see
+"Why this engine doesn't import Person 1's code" below for why that specific
+piece stays interface-compatible.
+
 ## What's implemented
 
 **Rule engine** (`app/suggestions/`), each suggestion carrying a plain-language
@@ -50,7 +61,7 @@ suggestions.**
 **API + job queue**
 - `POST /suggest`, `GET /status/{job_id}`, `GET /result/{job_id}`, `GET /health`
   — same polling shape as Person 1's `/analyze` flow.
-- Same shared job-queue *pattern* as Person 1's `app/jobs/queue.py`
+- Same shared job-queue *pattern* as Person 1's `person1_engine/app/jobs/queue.py`
   (`get_job_queue()`, in-memory by default, Celery+Redis skeleton behind a
   config flag). This is a same-interface mirror, not a literal shared import —
   see "Why this engine doesn't import Person 1's code" below.
@@ -62,7 +73,7 @@ cd person2_engine
 python -m venv venv
 venv\Scripts\activate            # or source venv/bin/activate on Linux/macOS
 pip install -r requirements.txt
-uvicorn app.main:app --reload --port 8001
+uvicorn app.suggestion_api:app --reload --port 8001
 ```
 
 Run the test suite (37 tests: every rule module in isolation, the full
@@ -119,7 +130,7 @@ hard coupling neither engine should need during independent development. So
 instead:
 
 - Core suggestions are derived **entirely from the health report JSON**
-  (`app/schemas.py::HealthReportIn` is a deliberately tolerant mirror — most
+  (`app/suggestion_schemas.py::HealthReportIn` is a deliberately tolerant mirror — most
   fields optional, `extra="allow"` — and the rule modules read via `.get()`
   regardless, so a minor field rename on Person 1's side degrades gracefully
   instead of hard-crashing this engine).
@@ -133,7 +144,7 @@ instead:
 
 ## Contract notes for Person 3 (apply/execute layer)
 
-`POST /suggest`'s response (`app/schemas.py::SuggestionList`) mostly matches
+`POST /suggest`'s response (`app/suggestion_schemas.py::SuggestionList`) mostly matches
 the project spec's schema, plus one addition your `/apply` step will want:
 
 ```json
@@ -190,14 +201,14 @@ telling the team** — this is the contract Person 3 deserializes.
 ```
 person2_engine/
 ├── app/
-│   ├── main.py                       # FastAPI: /suggest /status /result /health
-│   ├── pipeline.py                   # orchestrates input resolution -> suggestion engine -> persist
-│   ├── config.py
-│   ├── schemas.py                    # HealthReportIn (tolerant inbound mirror) + Suggestion List contract
+│   ├── suggestion_api.py             # FastAPI: /suggest /status /result /health
+│   ├── suggestion_pipeline.py        # orchestrates input resolution -> suggestion engine -> persist
+│   ├── suggestion_config.py
+│   ├── suggestion_schemas.py         # HealthReportIn (tolerant inbound mirror) + Suggestion List contract
 │   ├── health_report_client.py       # resolves health_report + optional raw dataset (inline/disk/HTTP)
 │   ├── jobs/
-│   │   ├── queue.py                  # same shared job-queue pattern as Person 1 (own instance)
-│   │   └── models.py
+│   │   ├── suggestion_job_queue.py   # same shared job-queue pattern as Person 1 (own instance)
+│   │   └── suggestion_job_record.py
 │   └── suggestions/
 │       ├── _graph_utils.py           # union-find + Kruskal's MST (no extra dependency)
 │       ├── missingness_rules.py      # imputation

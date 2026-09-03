@@ -1,6 +1,6 @@
 """
 pipeline.py — the orchestration entry point handed to the job queue by
-POST /suggest (app/main.py). Resolves inputs via health_report_client, runs the
+POST /suggest (app/suggestion_api.py). Resolves inputs via health_report_client, runs the
 suggestion engine, and persists the result the same way Person 1's pipeline
 persists the Dataset Health Report — so this engine's storage/suggestions
 folder is self-contained and never writes into Person 1's storage.
@@ -10,7 +10,7 @@ from __future__ import annotations
 import json
 from typing import Any, Dict, Optional
 
-from app import config
+from app import suggestion_config as config
 from app.health_report_client import resolve_health_report, try_load_raw_dataset
 from app.suggestions.suggestion_builder import generate_suggestions
 

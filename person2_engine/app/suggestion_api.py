@@ -10,18 +10,18 @@ Endpoints:
 
 Mirrors Person 1's /analyze -> /status -> /result polling shape exactly (see
 person1_engine/app/main.py) for a consistent client experience across both
-engines, and uses the same get_job_queue() pattern (app/jobs/queue.py).
+engines, and uses the same get_job_queue() pattern (app/jobs/suggestion_job_queue.py).
 """
 from __future__ import annotations
 
 from fastapi import FastAPI, HTTPException
 from fastapi.responses import JSONResponse
 
-from app import config
+from app import suggestion_config as config
 from app.health_report_client import HealthReportUnavailable
-from app.jobs.queue import get_job_queue
-from app.schemas import JobStatus, SuggestRequest
-from app import pipeline
+from app.jobs.suggestion_job_queue import get_job_queue
+from app.suggestion_schemas import JobStatus, SuggestRequest
+from app import suggestion_pipeline as pipeline
 
 app = FastAPI(
     title="Person 2 — Preprocessing & Feature Engineering Suggestion Engine",

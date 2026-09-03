@@ -21,8 +21,8 @@ from __future__ import annotations
 
 from typing import Any, Dict, List
 
-from app import config
-from app.schemas import Suggestion, SuggestionType
+from app import suggestion_config as config
+from app.suggestion_schemas import Suggestion, SuggestionType
 
 _NUMERIC_DTYPES = {"numeric_int", "numeric_float"}
 

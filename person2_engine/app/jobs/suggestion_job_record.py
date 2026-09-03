@@ -4,7 +4,7 @@ import time
 from dataclasses import dataclass, field
 from typing import Any, Dict, Optional
 
-from app.schemas import JobStatus
+from app.suggestion_schemas import JobStatus
 
 
 @dataclass

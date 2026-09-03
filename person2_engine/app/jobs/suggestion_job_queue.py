@@ -9,7 +9,7 @@ because the interface (new_job / submit / get_job) is identical.
 
 Usage:
 
-    from app.jobs.queue import get_job_queue
+    from app.jobs.suggestion_job_queue import get_job_queue
 
     queue = get_job_queue()
     job_id = queue.new_job(dataset_id="abc123")
@@ -26,9 +26,9 @@ from abc import ABC, abstractmethod
 from concurrent.futures import ThreadPoolExecutor
 from typing import Any, Callable, Dict, Optional
 
-from app import config
-from app.jobs.models import JobRecordInternal
-from app.schemas import JobStatus
+from app import suggestion_config as config
+from app.jobs.suggestion_job_record import JobRecordInternal
+from app.suggestion_schemas import JobStatus
 
 
 def _job_path(job_id: str):

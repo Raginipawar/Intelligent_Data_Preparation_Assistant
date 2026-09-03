@@ -121,7 +121,7 @@ class SuggestRequest(BaseModel):
       - `health_report` inline (fully decoupled — recommended for cross-machine use,
         testing, or if the caller already has Person 1's /result response in hand), or
       - `dataset_id` (+ optional `source_job_id`) so this engine looks the report up
-        from Person 1's shared local storage or live API (see app/config.py).
+        from Person 1's shared local storage or live API (see app/suggestion_config.py).
 
     `dataset_id` is always required (for bookkeeping/output labeling), even when
     `health_report` is supplied inline.
