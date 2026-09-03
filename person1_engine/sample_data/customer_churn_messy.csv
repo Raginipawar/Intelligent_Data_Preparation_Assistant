@@ -1,0 +1,1222 @@
+customer_id,gender,senior_citizen,tenure_months,monthly_charges,total_charges,contract,internet_service,paperless_billing,signup_date,support_notes,churned
+CUST-000000,Male,1,6.0,89.96,539.78,One year,DSL,No,2022-03-28,,No
+CUST-000001,Female,0,55.0,59.95,3466.13,One year,Fiber optic,No,2023-12-22,"Called about billing issue, resolved same day.",No
+CUST-000002,Female,0,47.0,72.27,3634.28,One year,No,Yes,2020-08-17,,No
+CUST-000003,Female,0,31.0,16.8,572.76,Month-to-month,DSL,Yes,2021-02-06,,No
+CUST-000004,Male,0,31.0,41.87,1226.31,One year,DSL,Yes,2024-01-01,,No
+CUST-000005,Female,0,61.0,59.12,3452.61,Month-to-month,Fiber optic,No,2022-01-25,,No
+CUST-000006,Female,0,6.0,43.56,248.31,Month-to-month,No,No,2020-10-23,"Long-time customer, referred two friends this year.",Yes
+CUST-000007,Female,1,50.0,79.29,3776.48,Month-to-month,DSL,Yes,2022-01-23,"Requested upgrade to fiber, scheduled for next week.",No
+CUST-000008,Female,0,14.0,104.95,1493.53,One year,No,No,2020-04-28,,No
+CUST-000009,Male,0,6.0,41.47,273.38,Month-to-month,No,No,2021-04-18,Complained about service outage in the area.,No
+CUST-000010,Male,0,37.0,48.25,1960.3,Month-to-month,DSL,Yes,2023-11-29,Complained about service outage in the area.,No
+CUST-000011,Male,0,70.0,69.71,4905.83,Two year,No,Yes,2021-03-23,,No
+CUST-000012,Female,0,52.0,97.22,,Month-to-month,Fiber optic,Yes,2023-08-31,"Long-time customer, referred two friends this year.",Yes
+CUST-000013,Male,1,54.0,40.55,2347.35,Month-to-month,Fiber optic,Yes,2022-03-25,,No
+CUST-000014,Male,0,51.0,69.98,3878.01,Month-to-month,Fiber optic,Yes,2022-09-10,,No
+CUST-000015,Male,0,56.0,101.43,5343.66,Month-to-month,No,No,2022-11-20,"Requested upgrade to fiber, scheduled for next week.",No
+CUST-000016,Male,0,36.0,31.96,1157.13,One year,Fiber optic,No,2022-04-07,"Long-time customer, referred two friends this year.",No
+CUST-000017,Female,0,9.0,39.38,378.01,Month-to-month,Fiber optic,Yes,2020-02-21,"Long-time customer, referred two friends this year.",No
+CUST-000018,Female,1,60.0,56.53,3258.3,Month-to-month,No,No,2023-10-10,"Long-time customer, referred two friends this year.",No
+CUST-000019,Female,0,32.0,54.59,1725.85,Two year,Fiber optic,No,2021-12-13,Complained about service outage in the area.,No
+CUST-000020,Male,0,36.0,81.25,3209.09,Two year,No,Yes,2022-09-10,"Long-time customer, referred two friends this year.",Yes
+CUST-000021,Male,0,26.0,69.83,,One year,No,Yes,2022-04-10,,Yes
+CUST-000022,Male,0,13.0,29.5,414.65,Two year,DSL,No,2022-09-14,"Requested upgrade to fiber, scheduled for next week.",No
+CUST-000023,Female,0,66.0,75.31,5267.15,Two year,,No,2021-06-16,,No
+CUST-000024,Female,0,56.0,53.45,2854.99,Month-to-month,Fiber optic,Yes,2023-06-19,,No
+CUST-000025,Male,0,46.0,90.49,4013.4,One year,No,No,2020-12-02,,No
+CUST-000026,Male,0,28.0,52.45,1482.49,One year,DSL,No,2022-09-06,,No
+CUST-000027,Male,1,59.0,52.27,3121.42,Month-to-month,Fiber optic,No,2022-05-16,"Requested upgrade to fiber, scheduled for next week.",Yes
+CUST-000028,Female,0,39.0,75.82,2960.23,Month-to-month,DSL,No,2022-01-25,Complained about service outage in the area.,Yes
+CUST-000029,Male,0,31.0,80.26,2556.07,Month-to-month,Fiber optic,Yes,2020-02-02,,Yes
+CUST-000030,Female,0,32.0,73.96,2323.33,One year,Fiber optic,Yes,2021-08-07,"Requested upgrade to fiber, scheduled for next week.",No
+CUST-000031,Male,0,16.0,31.29,525.59,One year,DSL,Yes,2020-03-12,,Yes
+CUST-000032,Male,0,6.0,75.76,439.43,One year,No,No,2022-01-24,,No
+CUST-000033,Female,0,39.0,44.31,,Month-to-month,DSL,No,2022-10-28,,Yes
+CUST-000034,Female,0,63.0,69.71,4064.31,Month-to-month,No,No,2022-02-22,,No
+CUST-000035,Female,0,4.0,36.53,137.02,Month-to-month,DSL,Yes,2023-02-09,,No
+CUST-000036,Male,0,61.0,73.93,4825.88,Month-to-month,No,Yes,2021-06-25,,No
+CUST-000037,Male,0,59.0,48.87,2852.35,Two year,Fiber optic,Yes,2021-04-04,Complained about service outage in the area.,No
+CUST-000038,Female,0,19.0,39.35,706.96,Two year,DSL,Yes,2021-11-03,,No
+CUST-000039,Female,0,45.0,79.28,3752.65,Two year,DSL,Yes,2020-12-09,"Called about billing issue, resolved same day.",No
+CUST-000040,Male,0,11.0,69.83,776.42,Two year,DSL,No,2023-04-17,,No
+CUST-000041,Female,0,54.0,52.72,2574.24,Two year,Fiber optic,Yes,2023-04-29,,No
+CUST-000042,Female,1,50.0,94.02,4528.34,Month-to-month,No,No,2021-09-16,,No
+CUST-000043,Female,0,25.0,56.19,1314.0,Month-to-month,Fiber optic,No,2023-04-03,,No
+CUST-000044,Male,0,4.0,65.64,270.75,Month-to-month,Fiber optic,No,2020-02-08,,No
+CUST-000045,Female,0,69.0,70.38,4637.72,Month-to-month,Fiber optic,Yes,2020-08-20,,No
+CUST-000046,Female,0,32.0,52.61,1537.04,Month-to-month,Fiber optic,No,2021-02-28,,Yes
+CUST-000047,Male,0,64.0,74.42,4338.92,Month-to-month,Fiber optic,No,2021-08-04,,No
+CUST-000048,Male,0,48.0,54.33,2650.47,Two year,Fiber optic,Yes,2020-12-13,"Called about billing issue, resolved same day.",No
+CUST-000049,Female,0,56.0,56.77,2875.02,Month-to-month,Fiber optic,No,2022-02-07,"Requested upgrade to fiber, scheduled for next week.",No
+CUST-000050,Male,1,54.0,92.25,5329.0,Two year,No,No,2023-04-05,,No
+CUST-000051,Male,0,14.0,44.19,576.02,One year,Fiber optic,Yes,2021-11-15,"Requested upgrade to fiber, scheduled for next week.",No
+CUST-000052,Male,0,26.0,16.74,444.52,One year,DSL,Yes,2021-11-04,,No
+CUST-000053,Female,1,33.0,97.22,3172.77,One year,DSL,Yes,2020-03-30,,No
+CUST-000054,Female,1,35.0,115.99,4013.25,Month-to-month,Fiber optic,Yes,2021-02-24,"Called about billing issue, resolved same day.",No
+CUST-000055,Female,0,3.0,56.89,156.05,One year,DSL,No,2023-04-25,"Long-time customer, referred two friends this year.",No
+CUST-000056,Female,0,39.0,26.26,1086.15,Month-to-month,No,Yes,2023-05-01,"Requested upgrade to fiber, scheduled for next week.",No
+CUST-000057,Female,0,11.0,58.79,697.53,Two year,Fiber optic,Yes,2020-06-05,,No
+CUST-000058,Male,0,53.0,59.28,2834.58,Month-to-month,Fiber optic,Yes,2020-01-29,,No
+CUST-000059,Male,0,49.0,61.2,2806.04,Month-to-month,Fiber optic,Yes,2023-05-31,Complained about service outage in the area.,No
+CUST-000060,Male,0,66.0,42.73,3048.0,One year,DSL,Yes,2020-09-18,"Requested upgrade to fiber, scheduled for next week.",No
+CUST-000061,Male,1,53.0,76.59,4099.45,One year,No,No,2022-05-11,,No
+CUST-000062,Male,0,26.0,75.49,1825.36,Month-to-month,DSL,Yes,2023-05-25,,No
+CUST-000063,Female,0,69.0,35.11,2278.59,One year,Fiber optic,Yes,2023-03-26,,No
+CUST-000064,Male,0,29.0,78.98,2363.71,Month-to-month,No,No,2022-04-05,,No
+CUST-000065,Male,0,23.0,106.05,2548.82,One year,Fiber optic,No,2021-07-18,,Yes
+CUST-000066,Female,1,65.0,68.44,4537.06,Month-to-month,No,Yes,2023-03-06,"Called about billing issue, resolved same day.",No
+CUST-000067,Male,0,26.0,58.25,1651.76,Month-to-month,Fiber optic,Yes,2022-11-08,"Called about billing issue, resolved same day.",No
+CUST-000068,Female,0,5.0,62.16,310.43,Month-to-month,No,Yes,2023-06-11,"Called about billing issue, resolved same day.",No
+CUST-000069,Female,0,33.0,77.31,2449.32,Month-to-month,Fiber optic,Yes,2022-02-09,Complained about service outage in the area.,No
+CUST-000070,Female,0,57.0,30.39,1724.34,Month-to-month,Fiber optic,Yes,2023-11-13,,No
+CUST-000071,Female,0,13.0,68.29,862.85,Month-to-month,DSL,No,2023-02-28,Complained about service outage in the area.,Yes
+CUST-000072,Male,0,33.0,57.19,1783.25,Month-to-month,DSL,No,2020-04-05,,No
+CUST-000073,Female,0,9.0,101.96,834.31,Month-to-month,Fiber optic,Yes,2021-03-16,,Yes
+CUST-000074,Male,0,49.0,61.52,2925.38,Month-to-month,DSL,No,2023-04-13,Complained about service outage in the area.,No
+CUST-000075,Female,0,34.0,98.36,3485.64,Month-to-month,Fiber optic,Yes,2020-06-23,,Yes
+CUST-000076,Female,0,23.0,42.93,892.29,One year,No,Yes,2022-11-29,"Requested upgrade to fiber, scheduled for next week.",No
+CUST-000077,Female,0,16.0,76.75,1213.06,Two year,No,Yes,2021-05-25,"Long-time customer, referred two friends this year.",Yes
+CUST-000078,Male,0,40.0,71.39,2937.85,Month-to-month,DSL,Yes,2020-11-06,Complained about service outage in the area.,No
+CUST-000079,Female,0,48.0,47.62,2336.23,Two year,No,No,2022-03-20,"Called about billing issue, resolved same day.",No
+CUST-000080,Female,0,67.0,68.55,4846.97,Month-to-month,DSL,Yes,2023-10-29,Complained about service outage in the area.,Yes
+CUST-000081,Female,0,31.0,89.25,2938.58,Month-to-month,Fiber optic,No,2023-09-08,,No
+CUST-000082,Male,0,11.0,58.52,670.98,One year,No,Yes,2021-08-29,,No
+CUST-000083,Female,0,59.0,31.16,1692.39,One year,DSL,No,2020-01-06,"Long-time customer, referred two friends this year.",No
+CUST-000084,Male,1,45.0,64.65,2894.72,Two year,DSL,No,2023-08-24,,No
+CUST-000085,Male,0,50.0,357.90770997729805,18265.48,Month-to-month,DSL,Yes,2023-09-07,,Yes
+CUST-000086,Female,0,7.0,58.15,386.34,One year,Fiber optic,Yes,2022-06-26,,No
+CUST-000087,Male,0,22.0,63.37,1266.59,Month-to-month,No,No,2022-07-31,,No
+CUST-000088,Male,0,55.0,30.89,1605.03,Month-to-month,DSL,Yes,2022-03-01,Complained about service outage in the area.,No
+CUST-000089,Female,0,59.0,32.69,1911.31,Month-to-month,DSL,Yes,2020-01-19,,No
+CUST-000090,Female,0,31.0,74.64,2274.01,Two year,Fiber optic,No,2020-08-27,"Requested upgrade to fiber, scheduled for next week.",No
+CUST-000091,Male,0,57.0,54.55,2908.28,Month-to-month,DSL,Yes,2020-08-03,,No
+CUST-000092,Male,0,60.0,13.71,875.97,Two year,Fiber optic,Yes,2023-10-03,,No
+CUST-000093,Male,0,27.0,80.7,2364.41,One year,No,Yes,2020-03-15,,No
+CUST-000094,Male,0,64.0,70.45,4239.49,One year,Fiber optic,Yes,2022-04-14,Complained about service outage in the area.,No
+CUST-000095,Female,0,20.0,50.72,1101.55,One year,No,Yes,2021-06-28,,No
+CUST-000096,Male,1,17.0,38.66,593.85,Two year,Fiber optic,Yes,2020-01-10,"Long-time customer, referred two friends this year.",No
+CUST-000097,Female,0,49.0,81.72,4344.61,Month-to-month,No,Yes,2023-10-10,"Requested upgrade to fiber, scheduled for next week.",No
+CUST-000098,Male,0,45.0,71.99,3532.36,Month-to-month,DSL,Yes,2020-01-28,,No
+CUST-000099,Female,0,10.0,112.65,1016.57,One year,DSL,Yes,2023-07-07,,No
+CUST-000100,Female,0,59.0,73.4,4558.41,Month-to-month,,No,2023-03-12,Complained about service outage in the area.,No
+CUST-000101,Female,0,14.0,72.75,1114.28,Month-to-month,DSL,Yes,2023-04-05,,No
+CUST-000102,Male,0,57.0,61.66,3799.94,Month-to-month,No,Yes,2020-08-30,"Requested upgrade to fiber, scheduled for next week.",No
+CUST-000103,Male,0,0.0,81.34,0.0,Month-to-month,Fiber optic,Yes,2023-08-14,,Yes
+CUST-000104,Female,0,57.0,77.5,4461.96,Month-to-month,No,No,2022-06-17,,No
+CUST-000105,Male,0,56.0,90.03,4616.32,Month-to-month,DSL,Yes,2021-08-25,Complained about service outage in the area.,Yes
+CUST-000106,Female,0,56.0,54.57,3269.71,Two year,Fiber optic,Yes,2022-10-18,,No
+CUST-000107,Female,1,47.0,56.29,2705.86,Month-to-month,Fiber optic,No,2021-05-27,"Long-time customer, referred two friends this year.",No
+CUST-000108,Male,0,33.0,55.42,1870.83,Two year,DSL,Yes,2021-02-23,,No
+CUST-000109,Male,0,50.0,80.82,3974.12,Two year,Fiber optic,No,2021-03-08,"Requested upgrade to fiber, scheduled for next week.",No
+CUST-000110,Male,0,19.0,94.97,1830.36,Month-to-month,Fiber optic,No,2022-05-03,,Yes
+CUST-000111,Male,0,56.0,55.82,2909.34,One year,No,No,2022-06-20,,No
+CUST-000112,Male,1,40.0,56.5,2368.38,One year,Fiber optic,Yes,2020-12-26,"Requested upgrade to fiber, scheduled for next week.",No
+CUST-000113,Female,0,33.0,71.28,2152.31,One year,DSL,Yes,2021-01-03,,No
+CUST-000114,Female,0,36.0,60.08,2262.28,Month-to-month,Fiber optic,Yes,2023-11-20,,Yes
+CUST-000115,Male,0,40.0,84.04,3596.23,Month-to-month,Fiber optic,No,2022-02-11,"Long-time customer, referred two friends this year.",No
+CUST-000116,Female,0,2.0,19.96,39.7,Month-to-month,DSL,No,2023-07-14,"Requested upgrade to fiber, scheduled for next week.",No
+CUST-000117,Male,0,10.0,48.47,485.65,One year,Fiber optic,No,2021-05-10,,No
+CUST-000118,Male,1,17.0,49.35,807.44,Two year,DSL,Yes,2021-03-08,"Long-time customer, referred two friends this year.",No
+CUST-000119,Female,0,8.0,18.59,162.68,One year,DSL,No,2021-02-27,"Called about billing issue, resolved same day.",No
+CUST-000120,Female,0,31.0,45.73,1483.73,One year,Fiber optic,Yes,2022-03-04,,Yes
+CUST-000121,Male,0,48.0,46.7,2182.86,Two year,DSL,No,2023-03-14,,No
+CUST-000122,Male,0,47.0,60.98,2679.66,One year,Fiber optic,Yes,2022-01-20,"Requested upgrade to fiber, scheduled for next week.",No
+CUST-000123,Female,1,33.0,87.26,2718.08,Month-to-month,DSL,Yes,2021-03-18,,Yes
+CUST-000124,Male,0,61.0,60.1,3639.65,Two year,Fiber optic,Yes,2023-12-11,,No
+CUST-000125,Male,0,40.0,44.38,1932.33,Month-to-month,DSL,No,2022-05-08,,No
+CUST-000126,Male,0,5.0,63.86,334.25,Month-to-month,No,Yes,2021-08-14,,Yes
+CUST-000127,Male,0,55.0,85.98,4459.58,Month-to-month,DSL,Yes,2020-01-15,,No
+CUST-000128,Female,0,41.0,45.48,1998.77,Two year,Fiber optic,Yes,2022-04-23,"Long-time customer, referred two friends this year.",No
+CUST-000129,Female,0,45.0,46.79,2054.26,Month-to-month,DSL,Yes,2022-07-20,,No
+CUST-000130,Male,0,40.0,76.17,3261.13,Month-to-month,DSL,No,2023-10-25,"Called about billing issue, resolved same day.",Yes
+CUST-000131,Male,0,39.0,60.57,2240.2,Month-to-month,Fiber optic,Yes,2020-12-12,"Called about billing issue, resolved same day.",No
+CUST-000132,Male,0,6.0,77.95,478.8,Month-to-month,No,Yes,2020-09-01,Complained about service outage in the area.,No
+CUST-000133,Male,0,40.0,64.73,2810.15,Month-to-month,No,No,2024-02-07,,No
+CUST-000134,Male,0,57.0,79.03,4286.59,One year,DSL,Yes,2022-04-05,Complained about service outage in the area.,No
+CUST-000135,Female,0,21.0,44.3,966.2,Two year,DSL,Yes,2020-02-10,,No
+CUST-000136,Female,0,43.0,64.76,3056.08,Month-to-month,Fiber optic,Yes,2020-06-07,"Long-time customer, referred two friends this year.",Yes
+CUST-000137,Female,0,2.0,60.79,113.08,Month-to-month,Fiber optic,Yes,2021-12-14,Complained about service outage in the area.,Yes
+CUST-000138,Male,0,25.0,40.68,933.28,Month-to-month,DSL,Yes,2022-07-15,Complained about service outage in the area.,Yes
+CUST-000139,Male,0,31.0,33.73,1082.06,Month-to-month,Fiber optic,Yes,2020-12-31,,No
+CUST-000140,Male,0,70.0,78.71,,One year,,Yes,2021-07-02,"Long-time customer, referred two friends this year.",No
+CUST-000141,Male,0,15.0,57.98,795.12,One year,Fiber optic,No,2023-01-09,,No
+CUST-000142,Male,0,19.0,44.55,842.27,One year,Fiber optic,No,2023-12-22,"Long-time customer, referred two friends this year.",No
+CUST-000143,Male,0,29.0,443.9931349579495,13529.3,Month-to-month,Fiber optic,No,2022-01-06,"Long-time customer, referred two friends this year.",Yes
+CUST-000144,Female,0,71.0,87.56,5949.59,One year,DSL,Yes,2021-09-15,,No
+CUST-000145,Male,0,61.0,19.39,1143.77,Month-to-month,Fiber optic,Yes,2021-06-25,,No
+CUST-000146,Male,0,2.0,35.07,74.99,Month-to-month,DSL,No,2020-07-23,"Long-time customer, referred two friends this year.",Yes
+CUST-000147,Female,1,16.0,46.54,747.63,Two year,Fiber optic,No,2020-03-20,"Requested upgrade to fiber, scheduled for next week.",Yes
+CUST-000148,Female,0,59.0,94.22,5940.03,One year,Fiber optic,Yes,2023-06-04,,No
+CUST-000149,Female,0,4.0,70.65,279.57,Two year,Fiber optic,Yes,2020-02-25,,No
+CUST-000150,Male,0,61.0,80.35,5345.39,Two year,DSL,Yes,2023-05-16,,No
+CUST-000151,Male,0,20.0,42.2,869.45,One year,DSL,Yes,2021-01-05,"Requested upgrade to fiber, scheduled for next week.",No
+CUST-000152,Male,0,66.0,42.61,2596.22,Two year,Fiber optic,Yes,2022-11-08,,No
+CUST-000153,Male,0,21.0,73.96,1672.78,Month-to-month,Fiber optic,Yes,2023-11-28,"Requested upgrade to fiber, scheduled for next week.",Yes
+CUST-000154,Female,0,31.0,66.17,2046.87,Month-to-month,No,No,2023-01-28,,Yes
+CUST-000155,Female,0,47.0,75.97,3314.68,Month-to-month,Fiber optic,Yes,2022-12-30,,No
+CUST-000156,Female,0,9.0,61.25,512.96,Month-to-month,No,Yes,2021-02-01,Complained about service outage in the area.,Yes
+CUST-000157,Female,1,40.0,70.56,2928.26,Month-to-month,DSL,Yes,2022-06-16,"Called about billing issue, resolved same day.",Yes
+CUST-000158,Male,0,36.0,68.16,2231.63,Month-to-month,Fiber optic,No,2022-08-21,,No
+CUST-000159,Male,0,56.0,80.56,4318.81,One year,DSL,No,2021-09-29,"Called about billing issue, resolved same day.",No
+CUST-000160,Female,0,71.0,81.14,5345.91,One year,Fiber optic,Yes,2020-02-27,,No
+CUST-000161,Female,0,47.0,32.6,1514.14,One year,DSL,Yes,2023-09-30,"Called about billing issue, resolved same day.",No
+CUST-000162,Female,0,29.0,20.05,571.49,Month-to-month,DSL,No,2020-10-22,"Requested upgrade to fiber, scheduled for next week.",No
+CUST-000163,Female,0,29.0,85.03,2476.66,One year,Fiber optic,No,2023-12-31,"Called about billing issue, resolved same day.",No
+CUST-000164,Male,0,30.0,88.75,2545.16,Month-to-month,Fiber optic,Yes,2023-10-30,Complained about service outage in the area.,Yes
+CUST-000165,Male,0,58.0,44.59,2344.17,Month-to-month,DSL,No,2020-01-29,,No
+CUST-000166,Female,0,23.0,27.8,654.03,Month-to-month,DSL,Yes,2023-01-13,"Called about billing issue, resolved same day.",No
+CUST-000167,Male,0,12.0,66.98,783.46,Month-to-month,Fiber optic,Yes,2022-08-09,"Requested upgrade to fiber, scheduled for next week.",No
+CUST-000168,Female,0,24.0,83.62,2067.62,Month-to-month,DSL,Yes,2020-12-12,,Yes
+CUST-000169,Male,0,1.0,100.95,93.05,Two year,DSL,Yes,2023-05-04,,Yes
+CUST-000170,Male,0,7.0,75.33,476.03,One year,Fiber optic,Yes,2020-06-16,"Requested upgrade to fiber, scheduled for next week.",Yes
+CUST-000171,Male,0,6.0,57.57,328.03,One year,,Yes,2021-01-08,,No
+CUST-000172,Female,0,55.0,47.14,2570.17,Month-to-month,Fiber optic,No,2023-11-24,,No
+CUST-000173,Male,0,52.0,65.23,3320.1,Two year,Fiber optic,Yes,2023-01-19,,No
+CUST-000174,Male,0,50.0,59.01,3133.61,One year,DSL,No,2020-06-17,,No
+CUST-000175,Female,0,33.0,44.7,1439.06,Month-to-month,DSL,Yes,2020-08-04,"Long-time customer, referred two friends this year.",Yes
+CUST-000176,Male,0,51.0,105.98,5437.89,One year,DSL,Yes,2021-01-20,"Called about billing issue, resolved same day.",No
+CUST-000177,Male,0,11.0,100.7,1128.42,Month-to-month,DSL,No,2020-04-15,Complained about service outage in the area.,Yes
+CUST-000178,Female,1,64.0,87.72,5077.18,Month-to-month,DSL,No,2020-09-30,,No
+CUST-000179,Female,0,36.0,46.58,1681.96,Month-to-month,No,No,2022-05-07,"Called about billing issue, resolved same day.",Yes
+CUST-000180,Female,0,67.0,82.1,5329.99,Month-to-month,No,No,2020-01-12,,No
+CUST-000181,Male,0,10.0,77.79,765.65,Month-to-month,Fiber optic,Yes,2021-03-07,,Yes
+CUST-000182,Female,0,35.0,73.85,2378.12,Month-to-month,Fiber optic,Yes,2021-04-16,,Yes
+CUST-000183,Male,0,50.0,89.99,4754.01,Month-to-month,Fiber optic,Yes,2023-12-27,,Yes
+CUST-000184,Female,0,35.0,77.71,2960.5,Two year,No,Yes,2024-01-01,,No
+CUST-000185,Male,0,32.0,79.8,2309.61,Month-to-month,DSL,Yes,2023-06-22,,Yes
+CUST-000186,Female,0,11.0,77.74,872.48,Month-to-month,DSL,Yes,2021-05-27,"Called about billing issue, resolved same day.",No
+CUST-000187,Female,0,27.0,71.82,2041.47,Month-to-month,DSL,No,2022-03-01,"Long-time customer, referred two friends this year.",Yes
+CUST-000188,Male,0,17.0,29.33,477.15,Two year,DSL,No,2022-01-26,,No
+CUST-000189,Male,0,21.0,66.67,1480.59,One year,DSL,No,2023-07-14,,No
+CUST-000190,Female,0,49.0,53.88,2710.01,Two year,No,No,2023-01-23,,No
+CUST-000191,Female,0,45.0,39.4,1925.18,Month-to-month,No,Yes,2023-09-21,,No
+CUST-000192,Female,0,43.0,98.64,4649.56,Month-to-month,DSL,Yes,2022-04-06,,No
+CUST-000193,Female,0,26.0,99.58,2352.1,One year,Fiber optic,No,2023-10-10,"Called about billing issue, resolved same day.",Yes
+CUST-000194,Female,1,69.0,92.18,6290.38,Month-to-month,Fiber optic,No,2023-01-20,"Requested upgrade to fiber, scheduled for next week.",No
+CUST-000195,Male,1,6.0,70.1,424.55,Two year,Fiber optic,Yes,2023-01-13,,No
+CUST-000196,Male,0,24.0,92.01,2052.22,Two year,Fiber optic,Yes,2022-09-19,"Called about billing issue, resolved same day.",Yes
+CUST-000197,Female,0,8.0,65.24,504.83,Month-to-month,DSL,Yes,2021-05-18,"Called about billing issue, resolved same day.",Yes
+CUST-000198,Male,0,24.0,69.06,1819.09,Two year,No,Yes,2022-07-01,"Requested upgrade to fiber, scheduled for next week.",No
+CUST-000199,Female,0,69.0,43.13,2688.03,One year,No,Yes,2021-06-18,"Requested upgrade to fiber, scheduled for next week.",No
+CUST-000200,Male,0,26.0,72.94,1878.43,Month-to-month,Fiber optic,Yes,2022-09-01,,Yes
+CUST-000201,Male,0,65.0,66.21,4598.58,Month-to-month,Fiber optic,No,2021-01-17,,No
+CUST-000202,Male,1,35.0,38.95,1315.24,Month-to-month,Fiber optic,No,2023-04-13,Complained about service outage in the area.,No
+CUST-000203,Female,1,50.0,63.98,3186.08,Two year,DSL,Yes,2022-05-07,,No
+CUST-000204,Male,0,32.0,63.41,2223.12,Month-to-month,DSL,No,2022-12-01,"Long-time customer, referred two friends this year.",No
+CUST-000205,Male,0,19.0,100.95,1908.41,Month-to-month,Fiber optic,No,2020-11-28,,Yes
+CUST-000206,Female,0,55.0,82.88,4221.92,One year,DSL,Yes,2023-04-02,"Requested upgrade to fiber, scheduled for next week.",No
+CUST-000207,Male,0,69.0,65.23,4097.34,Month-to-month,No,No,2023-04-18,,No
+CUST-000208,Female,1,18.0,69.98,1371.85,Month-to-month,Fiber optic,Yes,2020-08-06,"Long-time customer, referred two friends this year.",Yes
+CUST-000209,Female,0,56.0,65.88,3516.48,One year,Fiber optic,Yes,2021-06-09,,No
+CUST-000210,Male,0,18.0,60.94,1097.81,Month-to-month,DSL,Yes,2022-10-13,,No
+CUST-000211,Female,0,51.0,43.35,2029.87,Month-to-month,No,No,2023-08-03,"Called about billing issue, resolved same day.",No
+CUST-000212,Male,0,56.0,61.98,3417.88,Month-to-month,DSL,No,2023-01-10,"Called about billing issue, resolved same day.",No
+CUST-000213,Male,0,32.0,50.08,1740.41,Month-to-month,DSL,Yes,2021-12-08,,No
+CUST-000214,Female,0,53.0,39.99,2120.49,Month-to-month,DSL,Yes,2021-03-25,,No
+CUST-000215,Male,0,19.0,75.22,1563.85,One year,Fiber optic,Yes,2023-09-26,,Yes
+CUST-000216,Male,0,5.0,72.83,346.59,Two year,No,No,2023-08-04,"Requested upgrade to fiber, scheduled for next week.",No
+CUST-000217,Male,0,6.0,29.27,175.78,Month-to-month,DSL,Yes,2023-09-07,,Yes
+CUST-000218,Female,0,32.0,62.55,2145.53,Two year,No,Yes,2021-04-02,,Yes
+CUST-000219,Male,0,64.0,84.91,5378.0,One year,DSL,No,2021-10-16,,No
+CUST-000220,Male,0,9.0,86.18,741.41,One year,Fiber optic,Yes,2020-12-31,,Yes
+CUST-000221,Female,0,32.0,85.52,2931.2,One year,DSL,Yes,2023-12-02,,No
+CUST-000222,Male,0,50.0,65.78,3216.57,One year,Fiber optic,Yes,2023-07-24,,Yes
+CUST-000223,Male,0,14.0,48.1,677.54,Two year,Fiber optic,Yes,2020-09-16,"Long-time customer, referred two friends this year.",No
+CUST-000224,Male,0,51.0,43.33,2420.44,Month-to-month,Fiber optic,Yes,2021-01-05,,No
+CUST-000225,Female,0,22.0,71.89,1482.41,Month-to-month,DSL,Yes,2022-04-08,"Requested upgrade to fiber, scheduled for next week.",Yes
+CUST-000226,Female,0,58.0,72.59,4042.99,Month-to-month,No,Yes,2021-09-15,"Requested upgrade to fiber, scheduled for next week.",No
+CUST-000227,Female,0,41.0,90.75,3371.8,Month-to-month,No,No,2021-11-20,,Yes
+CUST-000228,Male,0,39.0,87.0,3319.6,One year,Fiber optic,Yes,2021-07-05,"Requested upgrade to fiber, scheduled for next week.",No
+CUST-000229,Female,0,12.0,62.36,703.45,Month-to-month,Fiber optic,No,2022-10-07,,Yes
+CUST-000230,Female,0,33.0,40.12,1371.63,Month-to-month,Fiber optic,Yes,2023-09-09,Complained about service outage in the area.,No
+CUST-000231,Female,0,61.0,58.62,3347.91,Month-to-month,DSL,No,2023-10-07,"Requested upgrade to fiber, scheduled for next week.",No
+CUST-000232,Male,0,1.0,69.34,71.76,Month-to-month,No,Yes,2021-11-13,,Yes
+CUST-000233,Female,0,54.0,60.96,3136.12,One year,DSL,No,2023-05-26,,No
+CUST-000234,Male,0,35.0,53.44,1816.24,One year,Fiber optic,Yes,2022-11-07,"Called about billing issue, resolved same day.",No
+CUST-000235,Female,1,51.0,70.06,3465.05,Month-to-month,DSL,Yes,2020-10-22,,Yes
+CUST-000236,Female,0,47.0,54.92,2693.14,Month-to-month,DSL,Yes,2023-04-06,,No
+CUST-000237,Male,1,31.0,52.44,1614.75,Month-to-month,Fiber optic,Yes,2021-06-09,,Yes
+CUST-000238,Male,0,22.0,71.23,1523.59,Month-to-month,Fiber optic,No,2022-07-30,,No
+CUST-000239,Female,1,45.0,56.96,2743.97,One year,No,No,2022-12-16,"Requested upgrade to fiber, scheduled for next week.",No
+CUST-000240,Male,1,10.0,69.88,708.86,One year,No,No,2023-11-16,,No
+CUST-000241,Female,1,42.0,70.46,2789.95,Month-to-month,DSL,Yes,2023-11-23,,Yes
+CUST-000242,Female,0,6.0,42.21,273.53,Month-to-month,DSL,No,2023-04-18,"Called about billing issue, resolved same day.",Yes
+CUST-000243,Male,0,46.0,55.38,2467.31,Two year,Fiber optic,No,2022-01-28,,No
+CUST-000244,Female,0,45.0,93.76,3830.17,One year,Fiber optic,Yes,2021-08-23,"Called about billing issue, resolved same day.",No
+CUST-000245,Female,0,6.0,41.76,250.29,Month-to-month,Fiber optic,Yes,2021-10-23,,Yes
+CUST-000246,Male,0,54.0,22.67,1132.11,Month-to-month,No,No,2023-11-27,,No
+CUST-000247,Male,1,29.0,27.76,762.93,Month-to-month,Fiber optic,Yes,2020-11-03,"Long-time customer, referred two friends this year.",Yes
+CUST-000248,Male,0,56.0,65.58,3853.98,Two year,DSL,Yes,2022-02-25,"Long-time customer, referred two friends this year.",No
+CUST-000249,Male,0,2.0,65.62,121.55,Month-to-month,Fiber optic,No,2022-10-16,,Yes
+CUST-000250,Female,0,12.0,62.65,797.95,Month-to-month,Fiber optic,Yes,2020-02-03,"Requested upgrade to fiber, scheduled for next week.",Yes
+CUST-000251,Female,0,35.0,89.28,3397.85,Two year,Fiber optic,Yes,2022-08-10,"Called about billing issue, resolved same day.",No
+CUST-000252,Female,0,13.0,11.54,153.22,One year,DSL,Yes,2021-01-25,,No
+CUST-000253,Male,0,23.0,72.92,1747.72,Month-to-month,Fiber optic,No,2021-02-24,Complained about service outage in the area.,No
+CUST-000254,Female,0,47.0,96.23,4716.01,Month-to-month,Fiber optic,No,2022-07-21,,Yes
+CUST-000255,Female,1,10.0,42.44,466.23,Month-to-month,DSL,No,2020-01-14,"Requested upgrade to fiber, scheduled for next week.",No
+CUST-000256,Female,0,48.0,57.4,2667.88,One year,Fiber optic,No,2020-08-23,"Called about billing issue, resolved same day.",No
+CUST-000257,Male,0,7.0,49.94,,Month-to-month,DSL,Yes,2021-11-13,"Requested upgrade to fiber, scheduled for next week.",Yes
+CUST-000258,Female,0,12.0,47.11,567.49,Two year,Fiber optic,No,2022-05-26,"Requested upgrade to fiber, scheduled for next week.",No
+CUST-000259,Female,1,42.0,58.47,2472.07,Two year,Fiber optic,Yes,2020-06-12,Complained about service outage in the area.,No
+CUST-000260,Male,1,57.0,93.55,4988.85,Month-to-month,No,Yes,2021-06-26,"Called about billing issue, resolved same day.",No
+CUST-000261,Female,0,12.0,101.75,1248.62,One year,DSL,No,2021-04-06,Complained about service outage in the area.,Yes
+CUST-000262,Male,0,21.0,58.28,1104.95,Month-to-month,DSL,No,2022-03-12,"Requested upgrade to fiber, scheduled for next week.",No
+CUST-000263,Female,0,66.0,103.1,7386.62,Month-to-month,DSL,Yes,2021-03-26,,No
+CUST-000264,Female,0,71.0,65.71,4445.74,One year,Fiber optic,No,2020-01-03,,No
+CUST-000265,Female,0,41.0,100.07,3725.05,Month-to-month,DSL,No,2022-03-06,,Yes
+CUST-000266,Female,0,32.0,63.13,1861.88,Month-to-month,Fiber optic,Yes,2023-06-26,,No
+CUST-000267,Male,0,24.0,67.62,1538.57,Month-to-month,DSL,Yes,2022-05-27,"Called about billing issue, resolved same day.",Yes
+CUST-000268,Female,0,44.0,72.31,3037.77,Month-to-month,DSL,Yes,2021-06-26,"Long-time customer, referred two friends this year.",No
+CUST-000269,Male,0,42.0,128.58,,Month-to-month,Fiber optic,Yes,2021-12-24,"Requested upgrade to fiber, scheduled for next week.",Yes
+CUST-000270,Female,1,21.0,82.03,1646.61,One year,Fiber optic,Yes,2020-07-29,,No
+CUST-000271,Male,0,1.0,50.85,47.73,Two year,No,Yes,2020-12-20,,No
+CUST-000272,Male,0,10.0,84.38,823.32,One year,Fiber optic,Yes,2021-10-18,,Yes
+CUST-000273,Female,0,69.0,57.76,3893.91,Two year,Fiber optic,Yes,2022-06-07,"Requested upgrade to fiber, scheduled for next week.",No
+CUST-000274,Male,1,30.0,55.2,1602.68,Month-to-month,Fiber optic,No,2021-12-30,,Yes
+CUST-000275,Female,0,34.0,83.17,2730.46,Two year,Fiber optic,No,2023-12-15,"Requested upgrade to fiber, scheduled for next week.",No
+CUST-000276,Female,0,33.0,65.62,1987.78,Month-to-month,DSL,Yes,2022-08-14,Complained about service outage in the area.,No
+CUST-000277,Male,0,56.0,70.57,3576.65,Month-to-month,Fiber optic,Yes,2020-02-04,,No
+CUST-000278,Male,0,4.0,65.28,245.56,Two year,Fiber optic,Yes,2022-02-25,,No
+CUST-000279,Female,1,5.0,71.73,377.06,Month-to-month,DSL,Yes,2022-05-24,"Called about billing issue, resolved same day.",Yes
+CUST-000280,Female,0,19.0,73.5,,Month-to-month,Fiber optic,Yes,2020-03-06,,No
+CUST-000281,Male,0,35.0,26.26,997.87,Month-to-month,Fiber optic,Yes,2021-07-31,"Long-time customer, referred two friends this year.",No
+CUST-000282,Female,0,48.0,78.33,3763.01,Month-to-month,Fiber optic,Yes,2023-07-31,,Yes
+CUST-000283,Female,0,35.0,45.36,1597.7,Month-to-month,DSL,No,2021-06-19,,Yes
+CUST-000284,Male,0,31.0,36.15,1079.09,Month-to-month,Fiber optic,Yes,2021-11-15,,No
+CUST-000285,Female,0,67.0,63.83, ,Two year,No,No,2020-11-27,,No
+CUST-000286,Female,0,11.0,66.68,772.32,Month-to-month,DSL,Yes,2020-04-25,"Requested upgrade to fiber, scheduled for next week.",Yes
+CUST-000287,Male,0,41.0,51.13,2240.67,Month-to-month,,Yes,2021-04-22,,No
+CUST-000288,Female,1,39.0,81.62,3434.97,Month-to-month,DSL,No,2023-03-05,"Called about billing issue, resolved same day.",Yes
+CUST-000289,Female,1,34.0,38.16,1280.4,Two year,DSL,Yes,2024-01-14,,No
+CUST-000290,Female,1,58.0,56.86,3473.9,Month-to-month,No,No,2022-09-17,Complained about service outage in the area.,No
+CUST-000291,Male,0,19.0,53.3,1074.76,Month-to-month,Fiber optic,No,2023-05-31,,Yes
+CUST-000292,Male,0,68.0,64.07,4189.86,Month-to-month,Fiber optic,Yes,2022-09-01,,No
+CUST-000293,Male,0,23.0,70.58,1762.7,One year,DSL,Yes,2022-09-15,,No
+CUST-000294,Female,1,39.0,44.84,1606.88,One year,No,Yes,2021-10-02,,No
+CUST-000295,Female,0,37.0,79.49,,One year,DSL,Yes,2020-04-01,,No
+CUST-000296,Male,0,61.0,66.26,4260.19,One year,Fiber optic,Yes,2021-09-07,"Requested upgrade to fiber, scheduled for next week.",No
+CUST-000297,Female,0,31.0,27.16,773.47,Month-to-month,DSL,Yes,2023-07-21,"Requested upgrade to fiber, scheduled for next week.",Yes
+CUST-000298,Female,0,20.0,25.83,532.74,Month-to-month,DSL,No,2022-03-15,,No
+CUST-000299,Male,1,1.0,64.75,58.72,Month-to-month,Fiber optic,No,2023-02-16,Complained about service outage in the area.,Yes
+CUST-000300,Male,0,26.0,60.58,1660.19,Month-to-month,DSL,Yes,2020-03-16,"Long-time customer, referred two friends this year.",No
+CUST-000301,Male,0,59.0,62.93,3935.07,Month-to-month,Fiber optic,Yes,2020-10-28,,No
+CUST-000302,Female,0,0.0,64.44,0.0,Month-to-month,DSL,No,2021-03-24,"Requested upgrade to fiber, scheduled for next week.",Yes
+CUST-000303,Male,0,64.0,69.51,4766.15,Month-to-month,Fiber optic,No,2021-06-23,,No
+CUST-000304,Female,0,39.0,83.95, ,One year,Fiber optic,Yes,2024-01-21,"Requested upgrade to fiber, scheduled for next week.",Yes
+CUST-000305,Female,1,10.0,42.78,408.63,Month-to-month,Fiber optic,Yes,2021-11-23,"Called about billing issue, resolved same day.",No
+CUST-000306,Female,0,21.0,41.56,857.78,One year,DSL,No,2022-09-20,"Called about billing issue, resolved same day.",No
+CUST-000307,Male,0,39.0,43.13,1528.15,One year,Fiber optic,No,2022-08-24,,No
+CUST-000308,Female,0,22.0,70.78,1541.03,Month-to-month,No,No,2021-09-20,"Long-time customer, referred two friends this year.",Yes
+CUST-000309,Male,0,7.0,89.9,599.75,Month-to-month,DSL,Yes,2023-12-20,"Long-time customer, referred two friends this year.",Yes
+CUST-000310,Male,0,47.0,56.37,,One year,DSL,Yes,2020-11-29,Complained about service outage in the area.,No
+CUST-000311,Male,0,48.0,14.97,707.8,One year,No,Yes,2020-02-21,,No
+CUST-000312,Female,1,8.0,30.92,266.13,Month-to-month,DSL,Yes,2023-01-22,"Requested upgrade to fiber, scheduled for next week.",No
+CUST-000313,Female,0,20.0,48.34,922.39,Month-to-month,Fiber optic,No,2022-09-07,,Yes
+CUST-000314,Male,0,17.0,53.85,987.54,One year,Fiber optic,Yes,2021-01-25,,No
+CUST-000315,Male,0,47.0,56.83,2631.46,One year,DSL,No,2023-07-25,,No
+CUST-000316,Female,0,52.0,65.77,3302.26,Month-to-month,Fiber optic,No,2020-08-31,,No
+CUST-000317,Female,0,52.0,58.77,3057.58,Month-to-month,Fiber optic,No,2021-01-11,,No
+CUST-000318,Male,1,67.0,85.99,5666.55,Two year,DSL,No,2020-08-19,"Long-time customer, referred two friends this year.",No
+CUST-000319,Male,0,55.0,51.48,2694.0,Month-to-month,No,No,2020-10-06,,Yes
+CUST-000320,Female,1,23.0,47.75,1098.84,Two year,DSL,Yes,2022-12-29,"Requested upgrade to fiber, scheduled for next week.",No
+CUST-000321,Female,0,7.0,74.58,485.7,Month-to-month,Fiber optic,Yes,2022-11-21,,Yes
+CUST-000322,Male,0,44.0,34.29,1464.08,Month-to-month,No,Yes,2022-08-22,"Called about billing issue, resolved same day.",No
+CUST-000323,Female,0,65.0,72.79,4793.61,Month-to-month,DSL,No,2023-07-15,,Yes
+CUST-000324,Female,0,70.0,67.05,4612.22,Month-to-month,No,No,2020-04-14,"Called about billing issue, resolved same day.",No
+CUST-000325,Male,1,16.0,62.05,1057.12,Two year,DSL,Yes,2022-07-19,,Yes
+CUST-000326,Female,0,17.0,96.77,1565.05,Month-to-month,Fiber optic,Yes,2020-06-21,"Called about billing issue, resolved same day.",Yes
+CUST-000327,Female,0,2.0,52.56,115.0,Two year,DSL,Yes,2023-12-04,,No
+CUST-000328,Male,0,10.0,106.21,1122.58,Month-to-month,Fiber optic,Yes,2022-08-08,,Yes
+CUST-000329,Male,1,39.0,60.49,2579.73,Two year,Fiber optic,No,2023-02-13,"Long-time customer, referred two friends this year.",No
+CUST-000330,Male,0,39.0,39.46,1643.01,Two year,No,Yes,2022-05-06,"Long-time customer, referred two friends this year.",No
+CUST-000331,Male,0,26.0,66.4,1602.83,One year,,No,2021-07-29,"Long-time customer, referred two friends this year.",No
+CUST-000332,Female,0,22.0,,961.62,Month-to-month,Fiber optic,Yes,2022-10-25,"Long-time customer, referred two friends this year.",Yes
+CUST-000333,Female,1,59.0,49.96,2753.08,One year,Fiber optic,Yes,2023-06-07,"Called about billing issue, resolved same day.",No
+CUST-000334,Female,0,33.0,72.94,2560.22,Month-to-month,Fiber optic,Yes,2020-09-24,,No
+CUST-000335,Female,0,58.0,76.11,4488.68,Two year,No,No,2023-07-31,,No
+CUST-000336,Male,1,69.0,52.56,3455.06,Month-to-month,Fiber optic,No,2022-12-25,"Called about billing issue, resolved same day.",No
+CUST-000337,Female,0,22.0,84.75,2024.7,Month-to-month,,Yes,2020-05-08,"Called about billing issue, resolved same day.",No
+CUST-000338,Male,0,14.0,88.15,1139.12,Month-to-month,DSL,Yes,2023-11-05,"Long-time customer, referred two friends this year.",Yes
+CUST-000339,Male,0,68.0,93.73,6455.05,One year,Fiber optic,No,2020-09-27,"Long-time customer, referred two friends this year.",No
+CUST-000340,Male,0,45.0,75.59,3551.93,Two year,Fiber optic,No,2022-06-20,,No
+CUST-000341,Female,0,20.0,92.27,1682.58,Month-to-month,DSL,No,2020-07-13,,Yes
+CUST-000342,Female,0,44.0,27.38,1228.3,One year,DSL,No,2020-10-21,"Requested upgrade to fiber, scheduled for next week.",No
+CUST-000343,Male,0,37.0,58.64,2306.76,Two year,No,No,2022-08-22,"Called about billing issue, resolved same day.",No
+CUST-000344,Female,0,65.0,47.66,2829.95,Month-to-month,Fiber optic,Yes,2022-10-16,,No
+CUST-000345,Female,0,18.0,67.38,1215.81,Month-to-month,DSL,No,2022-10-27,"Requested upgrade to fiber, scheduled for next week.",Yes
+CUST-000346,Male,0,71.0,53.57,3619.81,One year,DSL,Yes,2021-05-29,"Called about billing issue, resolved same day.",No
+CUST-000347,Female,0,67.0,61.68,4267.22,One year,Fiber optic,Yes,2023-05-15,,No
+CUST-000348,Female,0,13.0,102.64,1232.56,Month-to-month,Fiber optic,No,2020-03-14,,Yes
+CUST-000349,Male,0,11.0,61.61,736.95,Two year,No,No,2023-07-05,"Long-time customer, referred two friends this year.",No
+CUST-000350,Female,0,38.0,,3004.48,Month-to-month,No,Yes,2021-03-29,"Long-time customer, referred two friends this year.",Yes
+CUST-000351,Female,0,3.0,60.35,169.68,Two year,,Yes,2022-07-19,,No
+CUST-000352,Female,0,21.0,66.51,1347.34,Two year,Fiber optic,No,2023-09-20,,Yes
+CUST-000353,Male,0,31.0,65.12,2054.1,Two year,DSL,No,2021-01-18,,No
+CUST-000354,Male,1,69.0,73.97,5326.52,Month-to-month,No,No,2021-09-08,,No
+CUST-000355,Female,0,71.0,88.31,6198.1,Month-to-month,DSL,Yes,2023-05-27,,No
+CUST-000356,Male,0,10.0,97.95,912.17,Month-to-month,DSL,Yes,2023-07-20,,Yes
+CUST-000357,Male,0,64.0,71.19,4195.45,Month-to-month,No,No,2020-12-18,"Long-time customer, referred two friends this year.",No
+CUST-000358,Male,0,6.0,76.79, ,One year,No,No,2022-02-01,,No
+CUST-000359,Female,0,53.0,41.98,2205.07,Month-to-month,DSL,No,2021-05-14,,No
+CUST-000360,Male,0,60.0,63.24,4077.11,Month-to-month,Fiber optic,No,2022-02-14,,No
+CUST-000361,Female,1,64.0,83.81,5344.93,Month-to-month,Fiber optic,Yes,2021-07-22,,No
+CUST-000362,Male,0,16.0,82.32,1428.38,Month-to-month,DSL,Yes,2020-01-08,,Yes
+CUST-000363,Male,0,64.0,69.23,4065.42,Month-to-month,DSL,No,2023-10-18,,No
+CUST-000364,Male,0,8.0,82.73,610.75,One year,DSL,Yes,2022-08-13,"Long-time customer, referred two friends this year.",Yes
+CUST-000365,Female,0,37.0,74.82,3006.21,One year,Fiber optic,No,2021-11-23,,No
+CUST-000366,Male,1,33.0,89.01,3200.22,Month-to-month,Fiber optic,No,2020-06-10,"Called about billing issue, resolved same day.",Yes
+CUST-000367,Male,0,22.0,70.79,1499.67,Two year,Fiber optic,No,2020-04-16,,No
+CUST-000368,Female,0,1.0,57.89,56.21,Two year,DSL,Yes,2021-12-19,,No
+CUST-000369,Female,0,55.0,71.72,3907.09,Month-to-month,No,No,2022-08-31,"Requested upgrade to fiber, scheduled for next week.",No
+CUST-000370,Male,0,24.0,10.0,235.98,One year,Fiber optic,Yes,2021-01-25,"Requested upgrade to fiber, scheduled for next week.",No
+CUST-000371,Male,0,47.0,72.66,3203.32,Month-to-month,No,Yes,2023-01-21,,No
+CUST-000372,Female,0,29.0,10.0,313.11,Month-to-month,DSL,Yes,2021-08-11,,No
+CUST-000373,Male,0,26.0,30.53,754.62,Month-to-month,Fiber optic,Yes,2020-01-17,"Called about billing issue, resolved same day.",No
+CUST-000374,Male,0,63.0,74.04,4856.02,Month-to-month,No,No,2022-03-16,,No
+CUST-000375,Male,0,6.0,74.55,408.58,Two year,DSL,No,2020-09-28,Complained about service outage in the area.,Yes
+CUST-000376,Female,0,53.0,41.75,2008.62,Two year,DSL,Yes,2020-01-22,,No
+CUST-000377,Male,0,53.0,50.76,2773.0,Two year,DSL,No,2020-07-14,,No
+CUST-000378,Male,0,27.0,92.41,2414.74,One year,DSL,Yes,2021-03-02,,No
+CUST-000379,Male,0,18.0,55.32,1026.72,One year,Fiber optic,No,2022-02-11,,No
+CUST-000380,Female,0,0.0,109.86,0.0,Two year,DSL,No,2024-01-24,"Requested upgrade to fiber, scheduled for next week.",No
+CUST-000381,Female,1,67.0,64.96,4743.9,Month-to-month,DSL,Yes,2020-11-23,,No
+CUST-000382,Female,0,68.0,73.16,5222.15,Month-to-month,Fiber optic,Yes,2020-03-27,"Called about billing issue, resolved same day.",No
+CUST-000383,Male,0,17.0,97.34,1779.31,One year,DSL,Yes,2020-10-13,,No
+CUST-000384,Male,0,2.0,67.62,125.41,Month-to-month,DSL,Yes,2021-04-24,,Yes
+CUST-000385,Male,0,8.0,44.95,346.67,Month-to-month,Fiber optic,No,2020-11-03,"Long-time customer, referred two friends this year.",Yes
+CUST-000386,Female,1,4.0,62.81,244.62,Month-to-month,DSL,Yes,2021-04-27,"Requested upgrade to fiber, scheduled for next week.",Yes
+CUST-000387,Female,0,59.0,64.29,3821.31,One year,DSL,Yes,2023-12-24,,No
+CUST-000388,Male,0,64.0,37.71,2315.39,Month-to-month,DSL,Yes,2021-07-23,Complained about service outage in the area.,No
+CUST-000389,Female,1,11.0,59.88,600.8,Month-to-month,DSL,No,2022-08-10,"Requested upgrade to fiber, scheduled for next week.",No
+CUST-000390,Female,0,53.0,50.16,2588.76,Month-to-month,Fiber optic,Yes,2022-10-24,"Requested upgrade to fiber, scheduled for next week.",No
+CUST-000391,Female,0,12.0,83.49,952.7,Month-to-month,DSL,No,2020-07-14,"Long-time customer, referred two friends this year.",Yes
+CUST-000392,Male,0,26.0,65.69,1668.97,Two year,DSL,No,2021-01-06,,No
+CUST-000393,Female,0,43.0,59.34,2396.97,Month-to-month,No,Yes,2021-09-15,"Requested upgrade to fiber, scheduled for next week.",Yes
+CUST-000394,Male,0,51.0,62.88,3054.17,One year,No,Yes,2021-11-21,,No
+CUST-000395,Male,0,62.0,69.46,4415.86,One year,DSL,Yes,2020-01-20,,No
+CUST-000396,Male,0,3.0,77.34,226.83,Month-to-month,DSL,Yes,2022-08-25,,No
+CUST-000397,Female,0,14.0,45.01,610.65,Two year,Fiber optic,No,2021-03-27,,No
+CUST-000398,Female,0,20.0,44.17,889.39,One year,No,No,2021-04-28,,No
+CUST-000399,Male,0,22.0,87.09,2020.16,One year,No,Yes,2022-06-23,"Called about billing issue, resolved same day.",No
+CUST-000400,Male,0,71.0,56.75,3931.64,Month-to-month,DSL,Yes,2023-11-24,"Requested upgrade to fiber, scheduled for next week.",No
+CUST-000401,Female,0,55.0,180.46678693807704,10099.41,Month-to-month,DSL,Yes,2023-07-21,Complained about service outage in the area.,Yes
+CUST-000402,Female,0,23.0,73.88,1857.68,Two year,Fiber optic,Yes,2024-01-09,,No
+CUST-000403,Male,0,69.0,74.27,5147.16,One year,No,No,2021-09-12,"Long-time customer, referred two friends this year.",No
+CUST-000404,Male,0,35.0,,1302.3,Two year,,No,2020-06-28,,No
+CUST-000405,Male,0,36.0,69.59,2652.38,Two year,DSL,No,2020-11-19,,No
+CUST-000406,Male,0,31.0,79.71,2252.93,Month-to-month,Fiber optic,Yes,2021-05-30,,Yes
+CUST-000407,Female,0,10.0,72.49,714.62,One year,DSL,Yes,2021-03-26,,No
+CUST-000408,Male,0,67.0,77.64,5408.21,Month-to-month,Fiber optic,Yes,2020-11-07,,No
+CUST-000409,Female,0,1.0,36.91,40.5,One year,No,No,2020-08-14,"Requested upgrade to fiber, scheduled for next week.",No
+CUST-000410,Female,0,12.0,71.62,852.29,Month-to-month,Fiber optic,No,2020-10-07,,No
+CUST-000411,Female,0,16.0,58.95,866.38,Month-to-month,DSL,No,2022-09-14,,Yes
+CUST-000412,Female,0,20.0,55.34,1120.53,One year,Fiber optic,Yes,2022-01-06,,No
+CUST-000413,Male,1,9.0,82.41,686.3,One year,Fiber optic,Yes,2020-02-26,,Yes
+CUST-000414,Male,0,1.0,94.59,99.35,One year,No,No,2022-04-25,"Requested upgrade to fiber, scheduled for next week.",Yes
+CUST-000415,Female,0,48.0,100.89,4850.16,Month-to-month,DSL,Yes,2023-06-17,Complained about service outage in the area.,No
+CUST-000416,Female,1,69.0,91.3,6581.21,Month-to-month,No,No,2021-09-30,,No
+CUST-000417,Female,1,8.0,62.81,539.6,Two year,DSL,Yes,2021-04-22,"Requested upgrade to fiber, scheduled for next week.",No
+CUST-000418,Male,0,21.0,72.05,1552.07,Month-to-month,DSL,No,2021-02-12,,Yes
+CUST-000419,Female,0,36.0,80.34,2957.28,Month-to-month,DSL,Yes,2021-07-23,"Requested upgrade to fiber, scheduled for next week.",No
+CUST-000420,Male,1,66.0,67.42,4676.27,One year,DSL,No,2021-02-21,"Called about billing issue, resolved same day.",No
+CUST-000421,Male,0,49.0,67.62,3540.32,Month-to-month,DSL,Yes,2023-10-18,,No
+CUST-000422,Female,0,55.0,81.48,,One year,Fiber optic,Yes,2024-01-28,,No
+CUST-000423,Male,0,41.0,63.81,2373.65,Month-to-month,DSL,Yes,2021-05-29,,No
+CUST-000424,Male,0,30.0,50.41,1529.3,Two year,,Yes,2023-10-17,,No
+CUST-000425,Male,0,14.0,56.71,748.89,Two year,DSL,No,2023-07-04,"Requested upgrade to fiber, scheduled for next week.",No
+CUST-000426,Male,0,62.0,77.68,5163.26,Two year,DSL,No,2020-04-23,"Called about billing issue, resolved same day.",No
+CUST-000427,Female,0,57.0,65.06,3818.48,One year,No,No,2022-01-06,,No
+CUST-000428,Female,0,1.0,71.8,70.65,Month-to-month,No,No,2022-09-11,,Yes
+CUST-000429,Female,0,51.0,78.4,3748.98,One year,DSL,No,2021-09-25,,No
+CUST-000430,Male,1,6.0,57.5,333.89,Two year,Fiber optic,Yes,2021-11-16,"Requested upgrade to fiber, scheduled for next week.",No
+CUST-000431,Female,0,53.0,80.12,,One year,Fiber optic,No,2022-01-11,,No
+CUST-000432,Female,1,59.0,72.58,4029.02,One year,No,Yes,2022-10-30,"Long-time customer, referred two friends this year.",No
+CUST-000433,Male,1,9.0,40.3,333.22,One year,DSL,No,2021-03-16,"Requested upgrade to fiber, scheduled for next week.",No
+CUST-000434,Female,0,31.0,93.85,3135.13,One year,DSL,Yes,2022-06-14,"Long-time customer, referred two friends this year.",No
+CUST-000435,Female,0,8.0,54.99,463.17,One year,Fiber optic,No,2020-12-31,,Yes
+CUST-000436,Female,0,40.0,31.9,1199.39,Month-to-month,No,Yes,2023-08-26,"Long-time customer, referred two friends this year.",No
+CUST-000437,Female,1,66.0,44.1,2789.7,Month-to-month,Fiber optic,Yes,2020-05-07,,No
+CUST-000438,Female,0,5.0,44.58,243.94,One year,Fiber optic,Yes,2020-04-10,,No
+CUST-000439,Female,0,28.0,66.04,1926.11,Month-to-month,DSL,Yes,2020-02-26,,Yes
+CUST-000440,Female,1,70.0,59.52,4258.5,Two year,Fiber optic,Yes,2021-06-08,,No
+CUST-000441,Female,0,21.0,58.26,1176.39,One year,,Yes,2022-06-28,"Long-time customer, referred two friends this year.",No
+CUST-000442,Male,1,9.0,77.39,668.53,Month-to-month,Fiber optic,Yes,2024-01-18,"Long-time customer, referred two friends this year.",Yes
+CUST-000443,Female,0,35.0,71.8,2281.56,Two year,Fiber optic,Yes,2021-11-12,"Called about billing issue, resolved same day.",No
+CUST-000444,Female,0,36.0,71.32,2684.85,One year,Fiber optic,Yes,2020-09-30,,No
+CUST-000445,Male,0,47.0,73.2,3126.07,One year,Fiber optic,No,2021-07-06,,No
+CUST-000446,Female,0,22.0,77.32,1532.59,Month-to-month,Fiber optic,Yes,2020-07-10,Complained about service outage in the area.,No
+CUST-000447,Female,0,68.0,22.84,1624.41,Two year,Fiber optic,Yes,2021-12-08,,No
+CUST-000448,Female,1,37.0,57.71,2326.96,Month-to-month,No,Yes,2022-12-29,"Called about billing issue, resolved same day.",Yes
+CUST-000449,Female,0,20.0,21.4,,One year,Fiber optic,Yes,2020-02-23,,No
+CUST-000450,Male,0,69.0,65.72,4508.96,Month-to-month,DSL,Yes,2023-03-12,"Long-time customer, referred two friends this year.",No
+CUST-000451,Female,1,66.0,64.91,4272.1,One year,Fiber optic,No,2020-12-08,,No
+CUST-000452,Female,0,35.0,85.91,2968.44,One year,DSL,Yes,2022-10-05,"Called about billing issue, resolved same day.",No
+CUST-000453,Male,0,1.0,88.75,85.64,One year,DSL,Yes,2023-05-08,,No
+CUST-000454,Female,1,42.0,69.06,2913.12,Month-to-month,DSL,Yes,2023-03-10,,No
+CUST-000455,Male,0,39.0,54.99,2115.08,Two year,Fiber optic,Yes,2022-10-01,"Long-time customer, referred two friends this year.",No
+CUST-000456,Male,0,10.0,74.7,761.67,One year,DSL,Yes,2022-11-06,"Long-time customer, referred two friends this year.",No
+CUST-000457,Female,0,45.0,54.44,2644.86,Month-to-month,DSL,No,2020-10-08,,No
+CUST-000458,Female,0,60.0,64.97,4284.13,Two year,Fiber optic,Yes,2020-07-22,"Long-time customer, referred two friends this year.",No
+CUST-000459,Female,0,7.0,84.72,543.08,One year,DSL,No,2021-07-25,,No
+CUST-000460,Male,0,52.0,53.84,2735.11,Two year,Fiber optic,Yes,2022-07-01,,No
+CUST-000461,Female,0,10.0,81.11,759.3,Two year,No,Yes,2022-07-16,"Requested upgrade to fiber, scheduled for next week.",No
+CUST-000462,Male,0,53.0,78.55,4040.02,Two year,Fiber optic,Yes,2023-03-11,"Requested upgrade to fiber, scheduled for next week.",No
+CUST-000463,Female,0,30.0,45.9,1318.47,One year,DSL,Yes,2021-04-07,"Called about billing issue, resolved same day.",Yes
+CUST-000464,Female,0,0.0,84.48,0.0,One year,DSL,Yes,2023-07-22,,No
+CUST-000465,Female,0,69.0,78.97,5736.72,Month-to-month,Fiber optic,No,2021-11-04,,No
+CUST-000466,Male,0,11.0,67.04,736.89,Month-to-month,Fiber optic,No,2021-01-04,"Requested upgrade to fiber, scheduled for next week.",Yes
+CUST-000467,Female,0,42.0,49.75,2264.7,One year,DSL,Yes,2023-01-08,,No
+CUST-000468,Male,1,13.0,47.82,563.55,Month-to-month,Fiber optic,Yes,2020-07-10,"Called about billing issue, resolved same day.",No
+CUST-000469,Female,0,67.0,54.25,3319.96,Two year,Fiber optic,No,2021-08-30,Complained about service outage in the area.,No
+CUST-000470,Male,0,53.0,75.85,3942.28,Month-to-month,DSL,Yes,2023-03-17,,Yes
+CUST-000471,Female,0,57.0,45.89,2396.15,Month-to-month,Fiber optic,Yes,2023-03-02,,No
+CUST-000472,Male,0,31.0,73.75,2177.76,Month-to-month,DSL,No,2021-01-19,Complained about service outage in the area.,No
+CUST-000473,Female,1,33.0,40.16,1454.11,Month-to-month,DSL,Yes,2020-09-06,,No
+CUST-000474,Female,0,45.0,60.92,2581.83,Month-to-month,No,Yes,2020-02-17,,No
+CUST-000475,Male,0,56.0,67.19,3535.47,Month-to-month,DSL,Yes,2020-05-14,,Yes
+CUST-000476,Female,0,60.0,113.9,6934.65,Two year,Fiber optic,No,2023-05-22,,No
+CUST-000477,Male,0,1.0,37.45,37.44,Month-to-month,Fiber optic,Yes,2023-03-21,"Long-time customer, referred two friends this year.",Yes
+CUST-000478,Female,0,47.0,94.44,4510.09,Month-to-month,DSL,No,2022-01-28,"Requested upgrade to fiber, scheduled for next week.",No
+CUST-000479,Male,1,7.0,68.0,464.27,Month-to-month,No,Yes,2022-05-05,"Called about billing issue, resolved same day.",Yes
+CUST-000480,Male,0,20.0,73.22,1560.1,Month-to-month,DSL,Yes,2021-05-04,"Long-time customer, referred two friends this year.",Yes
+CUST-000481,Male,0,59.0,67.37,3687.51,Month-to-month,DSL,Yes,2020-10-15,,No
+CUST-000482,Female,0,18.0,73.89,1310.97,One year,No,No,2020-01-18,,No
+CUST-000483,Female,0,57.0,61.93,3663.98,One year,Fiber optic,Yes,2022-10-04,"Called about billing issue, resolved same day.",No
+CUST-000484,Female,0,33.0,94.08,3333.29,Month-to-month,Fiber optic,No,2020-02-22,"Called about billing issue, resolved same day.",No
+CUST-000485,Male,0,16.0,55.87,870.6,One year,DSL,Yes,2020-06-06,,No
+CUST-000486,Female,0,24.0,87.64,2131.86,Month-to-month,DSL,Yes,2023-04-03,"Called about billing issue, resolved same day.",No
+CUST-000487,Male,0,38.0,52.11,1809.54,Month-to-month,Fiber optic,Yes,2022-05-24,Complained about service outage in the area.,Yes
+CUST-000488,Male,1,55.0,63.79,3277.12,Two year,DSL,Yes,2022-01-04,,No
+CUST-000489,Male,0,43.0,203.40167753800182,7992.59,Month-to-month,DSL,Yes,2020-11-23,,Yes
+CUST-000490,Male,1,67.0,74.1,5190.97,Two year,Fiber optic,No,2020-08-12,"Called about billing issue, resolved same day.",No
+CUST-000491,Female,0,62.0,93.9,5575.03,Month-to-month,DSL,No,2021-11-30,,No
+CUST-000492,Female,0,54.0,63.45,3579.62,Month-to-month,DSL,No,2021-06-21,"Long-time customer, referred two friends this year.",No
+CUST-000493,Female,1,43.0,61.06,2397.89,Month-to-month,DSL,Yes,2022-03-12,"Called about billing issue, resolved same day.",Yes
+CUST-000494,Female,0,20.0,42.71,916.14,Month-to-month,Fiber optic,Yes,2020-09-04,,No
+CUST-000495,Female,0,29.0,60.41,1869.45,Two year,Fiber optic,No,2020-12-13,Complained about service outage in the area.,No
+CUST-000496,Male,0,8.0,33.14,243.32,Month-to-month,No,Yes,2020-06-18,"Called about billing issue, resolved same day.",Yes
+CUST-000497,Male,0,26.0,46.74,1099.49,Two year,DSL,No,2021-09-28,,No
+CUST-000498,Female,1,66.0,69.54,4182.35,Two year,DSL,No,2021-02-18,,No
+CUST-000499,Male,0,30.0,91.38,2935.29,One year,Fiber optic,Yes,2020-12-01,"Long-time customer, referred two friends this year.",No
+CUST-000500,Male,0,8.0,121.18,918.0,Month-to-month,Fiber optic,No,2022-04-04,"Requested upgrade to fiber, scheduled for next week.",Yes
+CUST-000501,Female,0,46.0,53.27,2474.08,Month-to-month,Fiber optic,No,2022-01-16,,No
+CUST-000502,Male,0,69.0,93.71,6370.61,Month-to-month,No,Yes,2020-11-11,,No
+CUST-000503,Female,0,62.0,69.88,4588.64,One year,Fiber optic,No,2022-11-14,"Long-time customer, referred two friends this year.",No
+CUST-000504,Female,1,19.0,61.98,1175.01,Month-to-month,Fiber optic,Yes,2021-05-30,Complained about service outage in the area.,Yes
+CUST-000505,Female,0,32.0,73.65,2357.11,Two year,No,Yes,2021-05-27,,No
+CUST-000506,Female,1,38.0,66.24,2763.34,One year,DSL,Yes,2021-12-17,,No
+CUST-000507,Male,0,17.0,67.21,1062.62,Month-to-month,No,Yes,2020-07-27,,No
+CUST-000508,Male,0,19.0,56.83,1151.19,One year,Fiber optic,Yes,2021-09-22,"Requested upgrade to fiber, scheduled for next week.",No
+CUST-000509,Female,0,17.0,37.04,573.23,Month-to-month,Fiber optic,No,2022-05-23,Complained about service outage in the area.,No
+CUST-000510,Female,0,71.0,34.13,2412.4,Two year,No,Yes,2020-07-11,"Long-time customer, referred two friends this year.",No
+CUST-000511,Male,1,53.0,78.06,4456.85,Month-to-month,Fiber optic,Yes,2022-04-27,,No
+CUST-000512,Female,0,60.0,59.47,3686.1,Two year,Fiber optic,No,2020-02-28,,No
+CUST-000513,Female,0,58.0,53.08,3192.68,Two year,DSL,Yes,2022-06-24,Complained about service outage in the area.,No
+CUST-000514,Male,0,69.0,65.17,4283.87,Two year,Fiber optic,No,2020-02-23,,No
+CUST-000515,Female,0,7.0,80.9,557.08,Month-to-month,Fiber optic,Yes,2020-09-19,,Yes
+CUST-000516,Female,0,63.0,68.61,4207.09,Two year,DSL,No,2021-06-09,,No
+CUST-000517,Female,1,4.0,51.88,208.41,Month-to-month,Fiber optic,No,2022-07-10,,Yes
+CUST-000518,Female,0,34.0,89.53,3021.02,One year,Fiber optic,Yes,2022-12-14,,No
+CUST-000519,Female,0,42.0,96.58,3915.93,Month-to-month,Fiber optic,Yes,2021-12-04,,Yes
+CUST-000520,Female,0,25.0,74.89,1799.41,Month-to-month,DSL,Yes,2020-07-15,,Yes
+CUST-000521,Male,0,10.0,84.47,802.61,Month-to-month,Fiber optic,No,2021-08-04,"Called about billing issue, resolved same day.",Yes
+CUST-000522,Female,0,13.0,89.84,1136.4,Month-to-month,DSL,No,2023-03-26,,No
+CUST-000523,Female,0,59.0,87.6,4806.55,Month-to-month,DSL,Yes,2020-05-15,"Long-time customer, referred two friends this year.",Yes
+CUST-000524,Female,0,22.0,77.28,1826.69,Two year,Fiber optic,Yes,2022-12-09,,No
+CUST-000525,Female,0,22.0,76.97,1727.92,Month-to-month,DSL,No,2021-08-01,,Yes
+CUST-000526,Male,1,66.0,75.39,4611.3,One year,DSL,Yes,2020-01-06,,No
+CUST-000527,Male,1,10.0,43.05,447.19,Month-to-month,Fiber optic,No,2022-11-07,,No
+CUST-000528,Male,0,65.0,79.01,5492.75,One year,DSL,No,2020-02-10,"Long-time customer, referred two friends this year.",No
+CUST-000529,Female,0,66.0,37.88,2368.84,One year,No,Yes,2021-07-08,"Requested upgrade to fiber, scheduled for next week.",No
+CUST-000530,Female,0,43.0,49.11,1964.16,Month-to-month,No,Yes,2020-10-19,"Long-time customer, referred two friends this year.",No
+CUST-000531,Male,0,11.0,91.07,903.32,One year,Fiber optic,Yes,2022-05-25,,Yes
+CUST-000532,Female,0,11.0,81.8,818.32,Two year,No,Yes,2020-03-25,,No
+CUST-000533,Male,0,20.0,94.75,1994.39,Two year,No,No,2020-05-16,,No
+CUST-000534,Male,0,41.0,59.57,2680.35,Month-to-month,DSL,No,2022-03-08,,No
+CUST-000535,Female,1,11.0,41.96,419.55,Month-to-month,Fiber optic,No,2024-01-30,"Called about billing issue, resolved same day.",No
+CUST-000536,Male,1,32.0,60.19,2021.64,One year,DSL,Yes,2020-02-29,"Called about billing issue, resolved same day.",No
+CUST-000537,Female,0,8.0,67.04,490.4,Month-to-month,Fiber optic,Yes,2021-11-22,"Called about billing issue, resolved same day.",Yes
+CUST-000538,Female,0,38.0,66.58,2576.66,Two year,Fiber optic,No,2023-04-18,,No
+CUST-000539,Male,0,1.0,87.67,92.16,Month-to-month,DSL,Yes,2021-03-12,"Called about billing issue, resolved same day.",Yes
+CUST-000540,Male,0,51.0,57.77,2863.31,Two year,DSL,Yes,2022-01-09,,No
+CUST-000541,Male,0,3.0,72.04,194.98,Month-to-month,No,Yes,2023-06-12,"Requested upgrade to fiber, scheduled for next week.",No
+CUST-000542,Male,1,14.0,45.23,645.28,Month-to-month,DSL,No,2022-12-27,"Called about billing issue, resolved same day.",Yes
+CUST-000543,Female,0,12.0,,975.38,Two year,DSL,No,2021-03-15,,No
+CUST-000544,Female,0,59.0,65.06,3652.46,Two year,DSL,Yes,2023-01-31,,No
+CUST-000545,Female,0,3.0,50.0,,Two year,Fiber optic,No,2022-10-10,"Long-time customer, referred two friends this year.",No
+CUST-000546,Female,0,30.0,60.28,1672.38,Two year,No,Yes,2022-01-30,,No
+CUST-000547,Female,0,42.0,61.32,2603.9,Month-to-month,Fiber optic,Yes,2021-10-23,,No
+CUST-000548,Female,0,37.0,59.6,2247.74,Month-to-month,Fiber optic,Yes,2023-10-20,Complained about service outage in the area.,No
+CUST-000549,Female,0,49.0,100.43,5208.73,Month-to-month,DSL,No,2023-08-04,,Yes
+CUST-000550,Female,0,57.0,63.03,3774.55,Month-to-month,,Yes,2024-01-25,Complained about service outage in the area.,No
+CUST-000551,Female,0,28.0,60.12,1815.52,Month-to-month,Fiber optic,Yes,2022-10-10,,No
+CUST-000552,Male,0,59.0,23.05,1443.12,Two year,No,Yes,2021-06-22,"Called about billing issue, resolved same day.",No
+CUST-000553,Male,0,22.0,47.12,984.24,Month-to-month,Fiber optic,No,2020-06-13,Complained about service outage in the area.,Yes
+CUST-000554,Female,1,70.0,59.74,4228.53,Month-to-month,Fiber optic,No,2020-07-07,"Called about billing issue, resolved same day.",No
+CUST-000555,Male,0,36.0,51.28,1771.28,Month-to-month,Fiber optic,Yes,2023-11-27,"Long-time customer, referred two friends this year.",No
+CUST-000556,Male,0,52.0,92.63,4652.78,Month-to-month,Fiber optic,No,2021-06-28,,Yes
+CUST-000557,Male,0,63.0,61.7,4222.9,Month-to-month,Fiber optic,Yes,2020-06-14,"Called about billing issue, resolved same day.",Yes
+CUST-000558,Male,0,57.0,90.77,5362.11,One year,Fiber optic,Yes,2020-12-01,Complained about service outage in the area.,No
+CUST-000559,Female,0,61.0,66.23,,Month-to-month,Fiber optic,Yes,2020-02-01,"Requested upgrade to fiber, scheduled for next week.",No
+CUST-000560,Female,0,38.0,65.74,2456.61,One year,Fiber optic,No,2022-03-07,,No
+CUST-000561,Male,0,3.0,63.22,191.08,Two year,No,Yes,2022-06-05,,Yes
+CUST-000562,Female,1,35.0,65.08,2271.93,One year,Fiber optic,Yes,2021-07-21,"Requested upgrade to fiber, scheduled for next week.",No
+CUST-000563,Female,0,13.0,99.38,1190.47,One year,DSL,Yes,2023-01-21,"Called about billing issue, resolved same day.",Yes
+CUST-000564,Female,0,64.0,18.61,1128.32,Month-to-month,DSL,Yes,2021-12-21,Complained about service outage in the area.,No
+CUST-000565,Female,1,17.0,24.97,426.84,Month-to-month,Fiber optic,No,2023-12-10,"Requested upgrade to fiber, scheduled for next week.",No
+CUST-000566,Male,0,16.0,54.14,791.29,Month-to-month,Fiber optic,No,2023-02-18,Complained about service outage in the area.,Yes
+CUST-000567,Male,0,17.0,65.29,1205.71,Two year,Fiber optic,Yes,2020-04-22,"Called about billing issue, resolved same day.",No
+CUST-000568,Female,0,46.0,78.8,3352.1,One year,Fiber optic,No,2021-02-15,,No
+CUST-000569,Female,0,41.0,74.46,,Month-to-month,DSL,Yes,2023-02-05,"Requested upgrade to fiber, scheduled for next week.",Yes
+CUST-000570,Female,0,68.0,57.32,4104.59,Month-to-month,Fiber optic,Yes,2022-03-17,"Requested upgrade to fiber, scheduled for next week.",No
+CUST-000571,Female,0,29.0,85.38,2276.42,Two year,Fiber optic,Yes,2023-02-03,,No
+CUST-000572,Female,0,20.0,85.6,1849.06,One year,Fiber optic,No,2021-05-17,Complained about service outage in the area.,No
+CUST-000573,Male,1,3.0,68.68,,One year,Fiber optic,Yes,2020-02-27,,No
+CUST-000574,Female,0,0.0,84.25,0.0,Two year,DSL,No,2023-03-23,,Yes
+CUST-000575,Male,0,26.0,70.45,1901.98,One year,Fiber optic,Yes,2023-03-23,Complained about service outage in the area.,No
+CUST-000576,Male,0,66.0,303.74857892749327,20575.17,One year,Fiber optic,No,2022-08-17,,No
+CUST-000577,Male,0,37.0,78.96,3071.89,Month-to-month,No,Yes,2021-08-29,,Yes
+CUST-000578,Female,0,64.0,67.21,4583.78,Month-to-month,Fiber optic,No,2020-01-13,"Called about billing issue, resolved same day.",No
+CUST-000579,Male,0,7.0,65.03,475.09,Two year,DSL,No,2022-12-27,"Long-time customer, referred two friends this year.",No
+CUST-000580,Female,1,6.0,94.46,576.53,One year,Fiber optic,Yes,2022-09-17,"Called about billing issue, resolved same day.",Yes
+CUST-000581,Female,0,60.0,15.98,924.76,Month-to-month,Fiber optic,No,2022-09-28,Complained about service outage in the area.,No
+CUST-000582,Female,0,7.0,36.65,266.67,One year,DSL,No,2020-09-12,,No
+CUST-000583,Male,0,3.0,41.26,135.09,Month-to-month,No,Yes,2023-01-01,"Requested upgrade to fiber, scheduled for next week.",No
+CUST-000584,Female,0,29.0,57.73,1703.48,Two year,DSL,Yes,2022-12-22,,No
+CUST-000585,Male,0,66.0,59.91,4084.03,Month-to-month,DSL,No,2023-07-10,,No
+CUST-000586,Female,0,49.0,34.85,,Two year,DSL,No,2022-05-01,,No
+CUST-000587,Female,0,7.0,45.3,333.34,Month-to-month,DSL,Yes,2023-01-02,"Called about billing issue, resolved same day.",Yes
+CUST-000588,Male,0,60.0,47.78,3152.14,Month-to-month,No,No,2021-08-25,Complained about service outage in the area.,No
+CUST-000589,Male,0,60.0,114.15,,Month-to-month,Fiber optic,Yes,2022-11-11,"Called about billing issue, resolved same day.",No
+CUST-000590,Male,0,57.0,101.03,5415.96,Two year,DSL,Yes,2022-11-07,"Requested upgrade to fiber, scheduled for next week.",No
+CUST-000591,Female,0,64.0,56.77,3661.94,Month-to-month,Fiber optic,Yes,2023-03-15,,No
+CUST-000592,Female,0,17.0,57.73,977.75,Month-to-month,Fiber optic,Yes,2023-07-08,"Long-time customer, referred two friends this year.",Yes
+CUST-000593,Male,0,70.0,42.02,2983.5,One year,DSL,Yes,2020-01-05,,No
+CUST-000594,Female,0,23.0,26.84,561.65,Month-to-month,DSL,Yes,2023-03-14,,No
+CUST-000595,Male,0,57.0,62.66,3503.24,Month-to-month,Fiber optic,Yes,2023-04-03,,No
+CUST-000596,Female,1,41.0,45.04,1877.29,Month-to-month,DSL,Yes,2022-03-29,,No
+CUST-000597,Male,0,56.0,63.3,3605.2,Two year,Fiber optic,No,2022-02-18,"Called about billing issue, resolved same day.",No
+CUST-000598,Male,0,45.0,33.0,1531.73,Month-to-month,DSL,Yes,2022-12-20,,No
+CUST-000599,Female,1,46.0,49.76,2389.77,Month-to-month,Fiber optic,No,2021-11-13,"Requested upgrade to fiber, scheduled for next week.",No
+CUST-000600,Male,0,44.0,67.97,3075.34,Month-to-month,No,Yes,2021-09-12,,Yes
+CUST-000601,Male,0,56.0,72.32,4285.01,Month-to-month,DSL,Yes,2023-04-20,,Yes
+CUST-000602,Female,0,53.0,73.35,3984.55,Month-to-month,DSL,Yes,2023-03-29,,No
+CUST-000603,Male,0,9.0,38.59,349.92,Month-to-month,No,No,2020-11-06,,No
+CUST-000604,Female,0,59.0,82.09,4946.18,Month-to-month,Fiber optic,Yes,2023-05-28,,No
+CUST-000605,Male,1,38.0,49.0,,Month-to-month,Fiber optic,Yes,2021-05-04,,No
+CUST-000606,Male,0,23.0,77.66,,Two year,DSL,No,2020-07-24,,No
+CUST-000607,Male,0,37.0,64.79,2410.37,Month-to-month,DSL,No,2023-08-10,,No
+CUST-000608,Female,0,69.0,37.47,2778.3,Month-to-month,Fiber optic,No,2020-12-23,,No
+CUST-000609,Male,1,61.0,58.68,3707.66,Two year,No,Yes,2020-10-31,,No
+CUST-000610,Male,0,60.0,72.31,,Two year,DSL,Yes,2021-02-08,"Long-time customer, referred two friends this year.",No
+CUST-000611,Female,1,33.0,77.26,2596.63,One year,Fiber optic,Yes,2022-01-07,"Called about billing issue, resolved same day.",Yes
+CUST-000612,Male,0,56.0,62.18,3288.29,Month-to-month,Fiber optic,No,2020-09-06,Complained about service outage in the area.,No
+CUST-000613,Male,0,27.0,95.64,2703.14,Month-to-month,DSL,Yes,2020-08-27,,No
+CUST-000614,Male,0,49.0,85.15,4445.59,Month-to-month,DSL,Yes,2021-08-11,Complained about service outage in the area.,Yes
+CUST-000615,Male,0,46.0,59.87,2805.5,Month-to-month,DSL,Yes,2020-11-22,,No
+CUST-000616,Male,0,17.0,458.2226115201542,7932.12,Month-to-month,Fiber optic,Yes,2020-10-16,"Called about billing issue, resolved same day.",Yes
+CUST-000617,Female,1,19.0,103.68,1906.33,One year,Fiber optic,No,2023-09-30,,No
+CUST-000618,Male,0,4.0,104.21,412.36,Month-to-month,Fiber optic,Yes,2022-06-12,,Yes
+CUST-000619,Male,0,10.0,40.44,433.85,One year,DSL,Yes,2020-01-21,"Called about billing issue, resolved same day.",No
+CUST-000620,Female,0,31.0,46.47,1504.91,Month-to-month,Fiber optic,Yes,2020-06-01,"Requested upgrade to fiber, scheduled for next week.",No
+CUST-000621,Male,0,34.0,94.7,,Month-to-month,Fiber optic,Yes,2023-05-05,,Yes
+CUST-000622,Female,0,11.0,43.83,469.42,One year,Fiber optic,Yes,2021-02-08,Complained about service outage in the area.,No
+CUST-000623,Male,0,30.0,38.55,1052.5,Two year,Fiber optic,Yes,2020-08-16,Complained about service outage in the area.,No
+CUST-000624,Female,0,43.0,55.28,2207.32,Month-to-month,DSL,No,2022-09-25,,No
+CUST-000625,Female,1,16.0,73.4,1102.3,One year,Fiber optic,No,2023-06-11,"Called about billing issue, resolved same day.",No
+CUST-000626,Male,0,24.0,62.95,1472.54,Month-to-month,Fiber optic,No,2021-08-20,,No
+CUST-000627,Female,0,26.0,403.6662241796665,11427.61,Month-to-month,Fiber optic,No,2023-01-19,"Called about billing issue, resolved same day.",Yes
+CUST-000628,Male,0,36.0,51.52,1856.63,One year,DSL,Yes,2021-09-24,,No
+CUST-000629,Female,1,26.0,50.75,1249.52,Month-to-month,Fiber optic,Yes,2020-06-12,"Requested upgrade to fiber, scheduled for next week.",No
+CUST-000630,Male,0,53.0,47.41,2314.6,Month-to-month,Fiber optic,Yes,2023-04-11,,No
+CUST-000631,Female,0,23.0,110.63,2462.2,Month-to-month,DSL,No,2023-10-10,"Requested upgrade to fiber, scheduled for next week.",Yes
+CUST-000632,Female,0,31.0,70.95,2338.34,Month-to-month,No,Yes,2024-01-16,,No
+CUST-000633,Female,0,27.0,82.74,2181.86,Month-to-month,No,Yes,2020-05-30,"Long-time customer, referred two friends this year.",Yes
+CUST-000634,Male,1,13.0,55.22,756.98,Month-to-month,DSL,Yes,2022-04-27,,No
+CUST-000635,Female,1,49.0,61.28,3184.51,Two year,Fiber optic,Yes,2022-07-24,"Called about billing issue, resolved same day.",No
+CUST-000636,Female,0,16.0,50.73,748.5,One year,Fiber optic,No,2020-04-28,,No
+CUST-000637,Female,0,21.0,11.97,,Month-to-month,No,No,2023-11-28,,Yes
+CUST-000638,Female,0,57.0,37.44,2330.03,Month-to-month,DSL,Yes,2020-06-03,"Long-time customer, referred two friends this year.",No
+CUST-000639,Male,0,68.0,28.79,1919.4,One year,DSL,No,2021-02-07,"Long-time customer, referred two friends this year.",No
+CUST-000640,Female,1,48.0,20.0,873.78,Month-to-month,Fiber optic,Yes,2023-12-23,"Called about billing issue, resolved same day.",No
+CUST-000641,Female,0,65.0,41.09,2896.97,Month-to-month,DSL,Yes,2022-04-14,,No
+CUST-000642,Male,0,61.0,91.5,6009.79,One year,Fiber optic,Yes,2022-10-15,,No
+CUST-000643,Female,0,34.0,64.11,2189.39,Month-to-month,Fiber optic,No,2022-01-10,"Called about billing issue, resolved same day.",No
+CUST-000644,Female,0,55.0,90.81,5046.75,Month-to-month,DSL,Yes,2023-02-02,"Long-time customer, referred two friends this year.",Yes
+CUST-000645,Male,0,23.0,73.22,1586.97,Month-to-month,Fiber optic,Yes,2020-05-02,,Yes
+CUST-000646,Male,0,33.0,80.65,2831.49,Month-to-month,No,No,2022-10-10,Complained about service outage in the area.,Yes
+CUST-000647,Male,0,38.0,46.98,1784.74,Month-to-month,Fiber optic,Yes,2020-04-09,"Long-time customer, referred two friends this year.",No
+CUST-000648,Male,0,69.0,75.48,4722.6,Two year,Fiber optic,Yes,2020-09-26,,No
+CUST-000649,Female,0,61.0,79.57,5031.43,Month-to-month,DSL,No,2022-01-29,Complained about service outage in the area.,No
+CUST-000650,Female,1,35.0,53.47,2040.07,One year,DSL,No,2021-11-03,,Yes
+CUST-000651,Female,0,46.0,76.19,3735.46,One year,No,No,2020-08-16,,No
+CUST-000652,Female,0,14.0,76.32,1020.87,Month-to-month,Fiber optic,No,2023-04-12,,Yes
+CUST-000653,Male,0,57.0,54.01,2803.55,Month-to-month,Fiber optic,Yes,2021-03-28,"Called about billing issue, resolved same day.",No
+CUST-000654,Female,0,39.0,42.54,1805.17,Month-to-month,No,No,2023-07-23,"Requested upgrade to fiber, scheduled for next week.",Yes
+CUST-000655,Female,0,38.0,41.32,1707.41,One year,DSL,No,2020-01-23,"Called about billing issue, resolved same day.",No
+CUST-000656,Male,0,55.0,66.73,3693.94,Month-to-month,Fiber optic,Yes,2020-12-22,,No
+CUST-000657,Male,0,45.0,71.54,3310.93,One year,DSL,Yes,2021-03-21,"Long-time customer, referred two friends this year.",No
+CUST-000658,Female,0,5.0,49.15,243.91,Two year,DSL,No,2022-06-12,"Requested upgrade to fiber, scheduled for next week.",No
+CUST-000659,Female,1,20.0,65.53,1289.57,One year,Fiber optic,Yes,2021-08-24,,No
+CUST-000660,Female,0,12.0,76.41,847.13,Two year,Fiber optic,Yes,2020-08-23,"Requested upgrade to fiber, scheduled for next week.",No
+CUST-000661,Male,0,52.0,77.36,3698.29,One year,No,No,2022-05-06,"Long-time customer, referred two friends this year.",No
+CUST-000662,Male,0,2.0,96.04,181.81,Two year,DSL,No,2023-12-08,,Yes
+CUST-000663,Male,0,14.0,90.54,1352.9,Two year,No,No,2020-07-19,"Requested upgrade to fiber, scheduled for next week.",No
+CUST-000664,Female,0,43.0,44.97,1796.74,One year,Fiber optic,No,2021-01-13,,No
+CUST-000665,Female,1,50.0,98.67,4663.83,Two year,Fiber optic,Yes,2021-12-18,"Called about billing issue, resolved same day.",No
+CUST-000666,Male,0,36.0,54.38,1976.71,Two year,No,No,2022-12-25,"Requested upgrade to fiber, scheduled for next week.",Yes
+CUST-000667,Male,0,61.0,85.9,4941.36,Month-to-month,Fiber optic,Yes,2020-07-23,,No
+CUST-000668,Female,0,66.0,66.36,4084.75,One year,Fiber optic,No,2020-12-12,Complained about service outage in the area.,No
+CUST-000669,Female,0,9.0,56.76,517.31,Month-to-month,DSL,Yes,2020-12-18,"Long-time customer, referred two friends this year.",No
+CUST-000670,Female,0,68.0,28.85,1910.05,Two year,DSL,No,2022-07-13,,No
+CUST-000671,Female,0,44.0,61.57,2777.44,Month-to-month,No,Yes,2020-05-03,"Requested upgrade to fiber, scheduled for next week.",No
+CUST-000672,Female,0,45.0,33.81,1646.88,Two year,Fiber optic,No,2022-09-15,,No
+CUST-000673,Female,0,6.0,84.35,470.77,One year,DSL,Yes,2021-09-30,,No
+CUST-000674,Female,0,44.0,95.34,4541.83,Two year,DSL,Yes,2021-05-07,,No
+CUST-000675,Female,0,52.0,49.06,2756.48,Month-to-month,Fiber optic,Yes,2023-07-17,,No
+CUST-000676,Male,0,41.0,71.04,3104.34,One year,Fiber optic,Yes,2023-05-13,"Called about billing issue, resolved same day.",No
+CUST-000677,Female,0,6.0,50.49,310.89,One year,DSL,No,2023-04-19,"Requested upgrade to fiber, scheduled for next week.",No
+CUST-000678,Female,0,37.0,52.43,1986.52,Two year,Fiber optic,Yes,2023-08-21,Complained about service outage in the area.,Yes
+CUST-000679,Male,0,67.0,80.49,5542.98,Two year,Fiber optic,Yes,2020-12-16,,No
+CUST-000680,Female,1,52.0,64.23,3467.21,One year,Fiber optic,Yes,2023-07-06,,No
+CUST-000681,Male,0,9.0,99.79,811.26,One year,DSL,Yes,2020-09-20,,No
+CUST-000682,Male,0,69.0,55.36,4169.81,Month-to-month,Fiber optic,No,2021-05-11,,No
+CUST-000683,Male,1,69.0,84.99,5964.71,Two year,DSL,Yes,2022-04-13,"Called about billing issue, resolved same day.",No
+CUST-000684,Male,0,12.0,66.95,848.63,Month-to-month,Fiber optic,Yes,2023-01-21,,Yes
+CUST-000685,Female,0,57.0,80.92,4499.23,One year,Fiber optic,Yes,2022-05-16,,No
+CUST-000686,Female,0,29.0,56.06,1467.2,One year,Fiber optic,Yes,2022-04-19,,Yes
+CUST-000687,Male,0,42.0,64.01,2693.65,Month-to-month,DSL,No,2021-07-18,,No
+CUST-000688,Female,0,32.0,62.69,2008.96,Month-to-month,No,Yes,2022-06-07,,No
+CUST-000689,Female,0,56.0,48.28,2669.61,Month-to-month,DSL,Yes,2021-12-13,"Requested upgrade to fiber, scheduled for next week.",No
+CUST-000690,Female,0,71.0,78.24,5376.96,Two year,Fiber optic,No,2021-12-17,,No
+CUST-000691,Female,0,57.0,78.0,4223.55,Month-to-month,,Yes,2022-05-28,,No
+CUST-000692,Female,0,67.0,76.87,5178.66,Month-to-month,Fiber optic,Yes,2022-06-19,"Long-time customer, referred two friends this year.",No
+CUST-000693,Female,0,68.0,95.74,6347.92,One year,No,Yes,2021-05-09,,No
+CUST-000694,Female,0,6.0,93.99,616.94,Month-to-month,Fiber optic,No,2020-07-22,,Yes
+CUST-000695,Female,0,18.0,57.5,967.3,Two year,Fiber optic,Yes,2021-03-25,"Long-time customer, referred two friends this year.",No
+CUST-000696,Male,0,51.0,72.46,3562.18,Month-to-month,Fiber optic,Yes,2021-09-05,,Yes
+CUST-000697,Female,0,42.0,52.53,2115.34,Month-to-month,Fiber optic,No,2020-08-29,,Yes
+CUST-000698,Male,0,3.0,65.47,198.11,Month-to-month,DSL,No,2020-09-23,Complained about service outage in the area.,Yes
+CUST-000699,Female,0,6.0,53.01,318.01,Month-to-month,Fiber optic,No,2023-11-27,Complained about service outage in the area.,Yes
+CUST-000700,Female,0,37.0,97.4,3707.4,Month-to-month,DSL,No,2021-02-24,,Yes
+CUST-000701,Female,1,44.0,72.27,3466.07,One year,No,Yes,2023-01-13,"Requested upgrade to fiber, scheduled for next week.",No
+CUST-000702,Female,0,12.0,60.64,696.42,Month-to-month,DSL,No,2020-07-10,,No
+CUST-000703,Female,0,12.0,88.87,1107.56,Month-to-month,DSL,No,2023-12-29,,Yes
+CUST-000704,Female,0,9.0,21.59,175.85,Month-to-month,No,Yes,2020-11-14,,No
+CUST-000705,Female,1,40.0,,941.81,Month-to-month,DSL,Yes,2021-08-13,,No
+CUST-000706,Female,0,0.0,80.92,0.0,Two year,Fiber optic,Yes,2023-03-18,,No
+CUST-000707,Male,0,41.0,66.21,2459.98,Month-to-month,,No,2020-10-29,,No
+CUST-000708,Female,0,34.0,70.01,2436.36,Two year,DSL,Yes,2022-04-04,Complained about service outage in the area.,No
+CUST-000709,Female,0,33.0,38.47,1314.78,Month-to-month,DSL,Yes,2023-03-24,,Yes
+CUST-000710,Female,1,48.0,64.54,3250.79,Month-to-month,Fiber optic,No,2020-02-05,"Requested upgrade to fiber, scheduled for next week.",No
+CUST-000711,Female,0,37.0,105.07,3900.48,Month-to-month,DSL,No,2020-02-08,,No
+CUST-000712,Female,0,52.0,81.48,4325.04,Month-to-month,DSL,Yes,2023-03-28,,No
+CUST-000713,Male,0,55.0,68.39,3683.26,One year,DSL,No,2021-01-29,"Requested upgrade to fiber, scheduled for next week.",No
+CUST-000714,Male,0,66.0,56.22,3370.08,Month-to-month,Fiber optic,Yes,2023-09-26,,No
+CUST-000715,Male,0,57.0,395.9930741931945,20765.66,Month-to-month,DSL,No,2023-10-23,"Long-time customer, referred two friends this year.",Yes
+CUST-000716,Female,0,37.0,22.42,855.26,One year,DSL,Yes,2023-08-13,Complained about service outage in the area.,No
+CUST-000717,Female,0,35.0,70.15,2698.59,One year,Fiber optic,Yes,2024-02-04,Complained about service outage in the area.,No
+CUST-000718,Female,0,16.0,81.91,1183.65,Two year,Fiber optic,No,2023-05-19,,No
+CUST-000719,Female,0,43.0,33.49,1456.65,Two year,DSL,Yes,2021-07-29,,No
+CUST-000720,Male,0,10.0,51.77,543.69,One year,DSL,Yes,2024-01-28,"Requested upgrade to fiber, scheduled for next week.",No
+CUST-000721,Female,1,67.0,41.85,2987.2,Two year,No,Yes,2021-06-02,"Called about billing issue, resolved same day.",No
+CUST-000722,Female,0,60.0,45.69,2766.18,One year,Fiber optic,No,2022-05-29,,No
+CUST-000723,Female,0,8.0,66.07,,Month-to-month,Fiber optic,No,2020-01-09,Complained about service outage in the area.,Yes
+CUST-000724,Female,0,56.0,23.31,1356.72,One year,Fiber optic,No,2023-12-14,"Long-time customer, referred two friends this year.",No
+CUST-000725,Male,0,8.0,77.29,662.71,Month-to-month,DSL,No,2022-06-06,,Yes
+CUST-000726,Female,0,51.0,80.08,3775.56,One year,No,No,2023-11-24,"Long-time customer, referred two friends this year.",No
+CUST-000727,Female,0,6.0,59.98,390.55,Two year,No,Yes,2021-06-13,,Yes
+CUST-000728,Female,0,35.0,15.39,487.59,Month-to-month,No,Yes,2021-04-14,,No
+CUST-000729,Male,0,47.0,45.07,2260.72,Two year,DSL,No,2022-02-22,,No
+CUST-000730,Male,0,52.0,89.66,4267.65,Two year,DSL,No,2023-07-19,"Requested upgrade to fiber, scheduled for next week.",No
+CUST-000731,Male,0,30.0,10.0,281.68,Month-to-month,DSL,No,2022-04-03,"Requested upgrade to fiber, scheduled for next week.",No
+CUST-000732,Male,0,66.0,58.05,3451.15,Month-to-month,DSL,No,2023-04-03,,No
+CUST-000733,Male,0,55.0,41.4,2252.07,Two year,DSL,Yes,2020-11-17,Complained about service outage in the area.,No
+CUST-000734,Male,0,14.0,81.09,1097.65,Two year,Fiber optic,No,2023-03-09,,No
+CUST-000735,Male,0,48.0,51.5,2306.87,Month-to-month,DSL,No,2023-01-03,"Requested upgrade to fiber, scheduled for next week.",No
+CUST-000736,Male,0,52.0,73.08,3762.99,Month-to-month,No,No,2023-09-06,"Long-time customer, referred two friends this year.",No
+CUST-000737,Female,1,24.0,76.31,1795.68,One year,DSL,No,2020-03-27,"Called about billing issue, resolved same day.",No
+CUST-000738,Female,0,53.0,101.72,5679.76,Month-to-month,DSL,Yes,2021-07-30,"Called about billing issue, resolved same day.",No
+CUST-000739,Male,0,64.0,60.94,4206.81,Month-to-month,No,No,2020-05-13,,No
+CUST-000740,Female,0,58.0,72.52,4334.5,Month-to-month,Fiber optic,Yes,2021-08-23,,No
+CUST-000741,Male,0,54.0,35.3,1763.01,Month-to-month,Fiber optic,No,2023-02-12,"Requested upgrade to fiber, scheduled for next week.",No
+CUST-000742,Female,0,45.0,88.81,3832.91,One year,Fiber optic,Yes,2022-08-18,,No
+CUST-000743,Male,0,19.0,49.79,1024.21,One year,DSL,Yes,2023-02-03,"Requested upgrade to fiber, scheduled for next week.",No
+CUST-000744,Male,0,57.0,53.78,2813.32,One year,DSL,Yes,2023-01-11,,No
+CUST-000745,Male,0,26.0,64.56,1647.29,One year,Fiber optic,Yes,2024-01-28,,No
+CUST-000746,Male,0,38.0,33.74,1395.59,Month-to-month,Fiber optic,Yes,2023-08-12,,No
+CUST-000747,Male,0,22.0,69.58,1668.73,Month-to-month,Fiber optic,No,2022-05-29,"Long-time customer, referred two friends this year.",No
+CUST-000748,Male,0,22.0,84.35,1822.74,Month-to-month,DSL,Yes,2023-08-06,,No
+CUST-000749,Male,0,11.0,70.86,805.56,Month-to-month,Fiber optic,No,2020-03-12,Complained about service outage in the area.,Yes
+CUST-000750,Female,0,69.0,33.22,2272.35,Month-to-month,Fiber optic,Yes,2022-12-18,"Called about billing issue, resolved same day.",No
+CUST-000751,Female,0,10.0,62.52,656.89,Month-to-month,DSL,Yes,2022-02-22,,Yes
+CUST-000752,Male,1,6.0,79.84,434.16,Month-to-month,DSL,No,2023-12-06,"Requested upgrade to fiber, scheduled for next week.",No
+CUST-000753,Male,0,67.0,27.44,1707.64,Month-to-month,Fiber optic,No,2022-01-25,,No
+CUST-000754,Female,0,39.0,43.5,1735.25,One year,Fiber optic,Yes,2020-09-24,,No
+CUST-000755,Female,1,31.0,82.53,2421.58,One year,Fiber optic,No,2022-12-22,"Requested upgrade to fiber, scheduled for next week.",No
+CUST-000756,Female,0,53.0,70.4,3855.11,Two year,Fiber optic,No,2023-11-26,,No
+CUST-000757,Male,0,27.0,73.24,1918.64,One year,Fiber optic,Yes,2020-01-25,,No
+CUST-000758,Female,0,9.0,102.19,990.83,One year,DSL,No,2020-04-06,"Requested upgrade to fiber, scheduled for next week.",No
+CUST-000759,Female,0,52.0,74.37,4114.17,Month-to-month,Fiber optic,No,2022-09-18,,Yes
+CUST-000760,Male,0,12.0,78.16,936.58,One year,DSL,No,2022-04-13,,No
+CUST-000761,Female,0,39.0,119.21,4902.94,Month-to-month,Fiber optic,Yes,2022-04-02,,Yes
+CUST-000762,Male,0,68.0,280.35228550042507,18191.35,Month-to-month,DSL,Yes,2020-05-15,Complained about service outage in the area.,Yes
+CUST-000763,Male,0,67.0,49.04,3281.91,Month-to-month,DSL,Yes,2022-05-08,,No
+CUST-000764,Female,0,25.0,73.56,1727.73,Month-to-month,Fiber optic,No,2022-05-02,"Requested upgrade to fiber, scheduled for next week.",Yes
+CUST-000765,Female,0,56.0,73.78,4429.89,Month-to-month,Fiber optic,No,2023-06-27,,No
+CUST-000766,Female,0,44.0,54.47,2551.54,One year,Fiber optic,Yes,2021-08-08,,No
+CUST-000767,Male,1,34.0,44.35,1629.18,Two year,Fiber optic,No,2021-06-05,,No
+CUST-000768,Male,0,10.0,111.2,1195.95,One year,No,Yes,2020-05-02,,No
+CUST-000769,Female,1,27.0,71.54,2109.13,One year,No,Yes,2022-04-30,,No
+CUST-000770,Female,0,46.0,50.35,2190.26,Month-to-month,No,No,2022-08-30,,No
+CUST-000771,Female,0,71.0,83.32,6426.63,Month-to-month,Fiber optic,Yes,2021-02-25,,No
+CUST-000772,Female,0,0.0,62.82,0.0,One year,Fiber optic,Yes,2023-01-01,,Yes
+CUST-000773,Female,0,51.0,59.94,3009.55,Month-to-month,Fiber optic,Yes,2023-11-08,,No
+CUST-000774,Male,0,60.0,76.25,4630.24,Month-to-month,Fiber optic,Yes,2020-09-18,,No
+CUST-000775,Male,1,68.0,39.16,2579.05,Month-to-month,DSL,No,2022-05-09,Complained about service outage in the area.,No
+CUST-000776,Male,0,30.0,72.05,2070.09,Two year,Fiber optic,No,2022-11-07,,No
+CUST-000777,Male,0,8.0,103.26,783.34,One year,DSL,Yes,2020-01-28,,No
+CUST-000778,Male,0,19.0,74.32,1294.15,Month-to-month,DSL,Yes,2020-09-25,,No
+CUST-000779,Female,0,61.0,57.48,3503.87,One year,No,Yes,2021-08-16,,No
+CUST-000780,Male,0,63.0,54.86,3724.21,Month-to-month,DSL,Yes,2020-07-25,"Long-time customer, referred two friends this year.",No
+CUST-000781,Female,1,45.0,56.79,2622.07,Month-to-month,Fiber optic,Yes,2021-06-17,,No
+CUST-000782,Male,0,8.0,59.92,481.37,Month-to-month,Fiber optic,Yes,2020-08-09,,Yes
+CUST-000783,Female,0,8.0,57.44,452.96,Month-to-month,DSL,No,2023-09-06,,Yes
+CUST-000784,Female,0,34.0,83.33,2813.05,One year,No,Yes,2022-06-17,,No
+CUST-000785,Male,0,42.0,30.34,1200.19,Month-to-month,DSL,Yes,2021-05-08,"Requested upgrade to fiber, scheduled for next week.",No
+CUST-000786,Male,1,2.0,82.24,175.1,One year,No,Yes,2023-03-14,,Yes
+CUST-000787,Male,1,49.0,57.41,2643.39,Month-to-month,Fiber optic,No,2020-01-28,"Requested upgrade to fiber, scheduled for next week.",No
+CUST-000788,Female,0,39.0,72.54,,One year,DSL,Yes,2022-06-14,,Yes
+CUST-000789,Female,1,0.0,42.46,0.0,One year,DSL,Yes,2022-10-22,"Called about billing issue, resolved same day.",No
+CUST-000790,Female,0,6.0,91.57,557.65,One year,DSL,No,2023-04-29,,No
+CUST-000791,Female,0,32.0,89.91,3085.96,One year,Fiber optic,Yes,2020-11-29,,No
+CUST-000792,Male,0,52.0,84.19,4194.93,Two year,DSL,No,2022-06-06,Complained about service outage in the area.,No
+CUST-000793,Female,0,59.0,34.7,2203.56,Month-to-month,No,Yes,2023-02-25,,No
+CUST-000794,Male,0,31.0,81.58,2645.01,One year,DSL,No,2023-04-10,,No
+CUST-000795,Female,0,21.0,73.1,1626.82,One year,No,No,2020-09-20,,No
+CUST-000796,Female,0,69.0,32.89,2344.11,Month-to-month,DSL,Yes,2024-01-04,"Requested upgrade to fiber, scheduled for next week.",No
+CUST-000797,Female,1,33.0,64.51,2276.29,Month-to-month,No,No,2021-02-14,,Yes
+CUST-000798,Female,1,22.0,72.29,1747.22,Month-to-month,DSL,Yes,2021-08-09,,Yes
+CUST-000799,Female,0,31.0,499.822592529626,15247.09,Month-to-month,Fiber optic,No,2020-10-15,,Yes
+CUST-000800,Female,0,0.0,,0.0,Month-to-month,Fiber optic,No,2020-08-12,,Yes
+CUST-000801,Male,0,21.0,70.82,1559.97,Month-to-month,DSL,No,2021-01-18,,Yes
+CUST-000802,Male,0,37.0,94.47,3462.44,One year,No,No,2020-07-22,,No
+CUST-000803,Female,0,66.0,89.52,6412.83,Month-to-month,DSL,Yes,2023-01-04,"Requested upgrade to fiber, scheduled for next week.",No
+CUST-000804,Male,0,53.0,10.0,518.81,Two year,Fiber optic,Yes,2022-06-15,,No
+CUST-000805,Male,0,56.0,58.65,3327.4,Month-to-month,Fiber optic,Yes,2021-08-08,,Yes
+CUST-000806,Male,0,39.0,61.71,2217.02,One year,Fiber optic,No,2022-03-31,Complained about service outage in the area.,No
+CUST-000807,Female,0,7.0,29.96,198.22,Month-to-month,DSL,No,2022-06-25,"Called about billing issue, resolved same day.",Yes
+CUST-000808,Female,0,28.0,66.88,2000.24,Month-to-month,DSL,No,2020-10-03,"Called about billing issue, resolved same day.",No
+CUST-000809,Female,1,71.0,89.98, ,Month-to-month,DSL,Yes,2021-03-21,,No
+CUST-000810,Female,0,3.0,43.27,127.06,One year,DSL,Yes,2023-08-16,,No
+CUST-000811,Female,0,63.0,71.73,4289.41,Month-to-month,DSL,No,2020-01-19,,No
+CUST-000812,Female,0,49.0,46.68,2283.48,Two year,No,No,2023-12-06,,No
+CUST-000813,Male,0,20.0,51.56,1094.27,Month-to-month,Fiber optic,Yes,2023-12-17,,No
+CUST-000814,Female,0,56.0,94.55,5713.26,One year,Fiber optic,Yes,2021-01-14,,No
+CUST-000815,Female,0,60.0,54.15,2969.66,Month-to-month,Fiber optic,Yes,2021-04-26,,No
+CUST-000816,Male,0,3.0,74.24,226.05,One year,DSL,Yes,2020-11-06,"Long-time customer, referred two friends this year.",No
+CUST-000817,Male,0,7.0,27.58,191.8,Month-to-month,Fiber optic,No,2022-04-20,,Yes
+CUST-000818,Female,0,47.0,102.25,4915.59,Month-to-month,DSL,Yes,2020-11-16,,No
+CUST-000819,Female,0,71.0,77.05,5412.86,Month-to-month,DSL,Yes,2023-04-01,"Requested upgrade to fiber, scheduled for next week.",No
+CUST-000820,Male,0,1.0,61.35,60.11,Month-to-month,Fiber optic,Yes,2021-08-04,"Called about billing issue, resolved same day.",Yes
+CUST-000821,Male,0,47.0,76.51,3575.75,Month-to-month,Fiber optic,Yes,2023-12-22,"Called about billing issue, resolved same day.",Yes
+CUST-000822,Female,0,9.0,36.8,336.63,Two year,No,No,2023-07-03,,No
+CUST-000823,Female,0,46.0,88.65,4078.7,Month-to-month,DSL,Yes,2021-08-24,,Yes
+CUST-000824,Female,0,44.0,58.52,2560.54,Month-to-month,Fiber optic,Yes,2022-06-12,"Called about billing issue, resolved same day.",No
+CUST-000825,Female,0,6.0,60.92,388.76,Two year,DSL,Yes,2020-02-06,"Requested upgrade to fiber, scheduled for next week.",Yes
+CUST-000826,Female,0,49.0,55.17,2836.14,Month-to-month,DSL,No,2020-04-11,"Long-time customer, referred two friends this year.",No
+CUST-000827,Female,0,64.0,53.39,3308.56,Month-to-month,Fiber optic,No,2022-01-29,,No
+CUST-000828,Male,0,62.0,78.89,5185.22,One year,DSL,Yes,2021-12-10,,No
+CUST-000829,Male,0,2.0,70.12,150.16,Two year,Fiber optic,No,2021-08-20,"Long-time customer, referred two friends this year.",Yes
+CUST-000830,Female,0,17.0,78.03,1234.58,One year,Fiber optic,Yes,2020-05-15,,No
+CUST-000831,Male,0,17.0,64.82,1120.16,Month-to-month,DSL,Yes,2023-06-13,,No
+CUST-000832,Female,1,32.0,75.26,2304.91,Two year,No,Yes,2021-09-01,Complained about service outage in the area.,No
+CUST-000833,Male,1,10.0,56.62,593.28,Month-to-month,Fiber optic,No,2021-12-06,,Yes
+CUST-000834,Male,0,61.0,109.59,6335.75,Two year,Fiber optic,No,2021-08-28,Complained about service outage in the area.,No
+CUST-000835,Male,0,55.0,33.64,1913.63,Two year,Fiber optic,Yes,2022-01-16,Complained about service outage in the area.,No
+CUST-000836,Male,0,58.0,90.22,4976.49,Two year,No,Yes,2022-08-30,,No
+CUST-000837,Female,0,14.0,92.36,1295.92,Month-to-month,DSL,Yes,2023-02-19,,Yes
+CUST-000838,Female,0,1.0,47.96,52.26,Month-to-month,Fiber optic,Yes,2022-04-04,,Yes
+CUST-000839,Female,0,65.0,109.59,6954.25,One year,Fiber optic,Yes,2020-09-05,,No
+CUST-000840,Male,0,20.0,84.91,1825.82,Month-to-month,DSL,Yes,2023-08-05,,No
+CUST-000841,Female,0,47.0,84.42,4354.15,Month-to-month,Fiber optic,No,2021-03-02,,Yes
+CUST-000842,Male,0,65.0,65.56,4580.88,Two year,No,Yes,2020-01-25,"Called about billing issue, resolved same day.",No
+CUST-000843,Male,0,2.0,60.66,113.21,One year,Fiber optic,No,2020-02-28,,Yes
+CUST-000844,Male,1,0.0,60.81,0.0,Month-to-month,Fiber optic,Yes,2023-03-06,"Called about billing issue, resolved same day.",Yes
+CUST-000845,Male,0,0.0,72.81,0.0,Month-to-month,Fiber optic,Yes,2021-08-03,"Long-time customer, referred two friends this year.",Yes
+CUST-000846,Male,0,11.0,93.02,1001.38,Month-to-month,No,Yes,2020-02-03,,No
+CUST-000847,Male,1,3.0,68.63,221.16,Month-to-month,No,No,2023-05-02,,Yes
+CUST-000848,Male,0,59.0,46.77,2863.6,Month-to-month,Fiber optic,Yes,2021-04-01,,No
+CUST-000849,Female,0,43.0,81.49,3527.01,Two year,DSL,Yes,2024-01-06,,No
+CUST-000850,Female,0,70.0,83.42,5708.44,One year,DSL,No,2023-08-12,Complained about service outage in the area.,No
+CUST-000851,Male,0,57.0,78.09,4729.14,Month-to-month,Fiber optic,No,2020-03-13,,No
+CUST-000852,Male,0,69.0,79.91,5744.88,Month-to-month,No,No,2022-11-01,,Yes
+CUST-000853,Male,0,17.0,59.58,1006.46,One year,Fiber optic,Yes,2022-06-23,Complained about service outage in the area.,No
+CUST-000854,Female,0,20.0,46.42,1001.28,Two year,DSL,Yes,2020-09-14,,No
+CUST-000855,Female,0,61.0,47.64,2749.08,Two year,DSL,No,2021-05-29,"Long-time customer, referred two friends this year.",No
+CUST-000856,Male,1,17.0,32.29,512.74,Month-to-month,Fiber optic,No,2022-01-06,,No
+CUST-000857,Male,0,4.0,69.74,286.93,Two year,No,No,2020-08-07,,No
+CUST-000858,Male,0,48.0,63.33,3326.8,Month-to-month,DSL,Yes,2022-12-18,"Long-time customer, referred two friends this year.",No
+CUST-000859,Male,0,57.0,56.2,3041.47,Month-to-month,Fiber optic,Yes,2021-02-19,Complained about service outage in the area.,No
+CUST-000860,Male,0,69.0,10.0,655.45,Two year,Fiber optic,No,2023-11-07,"Requested upgrade to fiber, scheduled for next week.",No
+CUST-000861,Male,0,66.0,40.05,2452.72,Month-to-month,No,No,2023-04-17,"Long-time customer, referred two friends this year.",No
+CUST-000862,Female,0,8.0,87.42,749.79,Month-to-month,DSL,Yes,2022-08-09,"Long-time customer, referred two friends this year.",Yes
+CUST-000863,Female,1,55.0,51.71,2688.42,Month-to-month,No,No,2020-06-28,,No
+CUST-000864,Female,0,60.0,72.21,4335.35,Month-to-month,Fiber optic,Yes,2020-02-07,,No
+CUST-000865,Male,0,50.0,37.19,2042.06,Month-to-month,Fiber optic,Yes,2020-08-06,Complained about service outage in the area.,No
+CUST-000866,Male,0,59.0,93.77,4992.62,One year,DSL,Yes,2022-01-19,,No
+CUST-000867,Male,0,60.0,62.12,3769.31,Month-to-month,Fiber optic,No,2023-03-17,"Long-time customer, referred two friends this year.",No
+CUST-000868,Male,0,32.0,70.8,2271.17,Month-to-month,Fiber optic,Yes,2020-08-17,,Yes
+CUST-000869,Male,0,2.0,111.52,236.75,Two year,DSL,Yes,2022-11-27,"Long-time customer, referred two friends this year.",Yes
+CUST-000870,Male,0,32.0,95.33,2962.27,Month-to-month,Fiber optic,No,2020-03-12,,No
+CUST-000871,Male,0,14.0,58.87,809.4,Two year,Fiber optic,Yes,2021-02-02,,No
+CUST-000872,Male,0,8.0,53.14,396.89,Month-to-month,Fiber optic,No,2022-06-16,Complained about service outage in the area.,Yes
+CUST-000873,Female,0,8.0,58.49,490.46,One year,DSL,Yes,2023-05-27,,No
+CUST-000874,Female,0,50.0,75.2,3974.1,Month-to-month,Fiber optic,Yes,2023-03-11,"Long-time customer, referred two friends this year.",No
+CUST-000875,Female,1,36.0,62.9,2099.85,Two year,DSL,No,2022-03-09,,No
+CUST-000876,Male,0,38.0,57.1,2123.56,Month-to-month,No,No,2020-02-24,"Long-time customer, referred two friends this year.",No
+CUST-000877,Male,1,53.0,94.34,5392.93,Two year,No,Yes,2021-03-16,Complained about service outage in the area.,No
+CUST-000878,Female,0,39.0,332.72668029971857,11685.73,Month-to-month,DSL,No,2023-03-21,"Requested upgrade to fiber, scheduled for next week.",Yes
+CUST-000879,Female,0,45.0,110.99,4793.53,One year,DSL,No,2020-05-01,"Requested upgrade to fiber, scheduled for next week.",No
+CUST-000880,Female,0,6.0,66.81,405.27,Month-to-month,DSL,No,2022-11-25,"Long-time customer, referred two friends this year.",Yes
+CUST-000881,Male,0,61.0,100.71,5939.47,Month-to-month,Fiber optic,No,2022-11-21,"Called about billing issue, resolved same day.",Yes
+CUST-000882,Female,0,32.0,72.15,,Month-to-month,No,Yes,2023-02-01,,No
+CUST-000883,Female,0,11.0,84.26,919.45,Month-to-month,Fiber optic,Yes,2020-11-21,,No
+CUST-000884,Female,1,58.0,50.51,2742.98,Month-to-month,DSL,Yes,2021-01-02,Complained about service outage in the area.,Yes
+CUST-000885,Female,0,52.0,47.92,2506.6,One year,DSL,Yes,2020-10-24,,No
+CUST-000886,Male,0,3.0,74.19,231.77,Month-to-month,DSL,No,2021-08-13,"Called about billing issue, resolved same day.",Yes
+CUST-000887,Female,0,13.0,84.77,1118.61,Month-to-month,No,Yes,2022-02-24,,Yes
+CUST-000888,Female,0,1.0,65.81,60.45,Month-to-month,Fiber optic,Yes,2020-06-28,"Called about billing issue, resolved same day.",Yes
+CUST-000889,Male,0,19.0,39.27,,Month-to-month,Fiber optic,Yes,2022-05-01,,No
+CUST-000890,Male,0,7.0,37.79,,Month-to-month,DSL,Yes,2020-12-24,"Called about billing issue, resolved same day.",Yes
+CUST-000891,Male,0,51.0,36.46,1957.94,One year,No,Yes,2022-04-23,,No
+CUST-000892,Female,0,37.0,29.65,1066.46,Month-to-month,DSL,No,2021-03-30,"Called about billing issue, resolved same day.",Yes
+CUST-000893,Male,0,70.0,67.19,4969.28,Two year,No,Yes,2023-12-02,,No
+CUST-000894,Female,0,53.0,87.5,4365.07,Month-to-month,No,Yes,2021-04-24,,Yes
+CUST-000895,Female,0,44.0,64.73,2669.64,Month-to-month,Fiber optic,Yes,2023-07-30,,No
+CUST-000896,Male,0,36.0,19.79,712.02,Two year,No,No,2020-09-19,,No
+CUST-000897,Male,1,3.0,61.18,166.4,Month-to-month,DSL,Yes,2020-05-07,"Requested upgrade to fiber, scheduled for next week.",Yes
+CUST-000898,Female,0,5.0,61.74,291.74,Month-to-month,Fiber optic,Yes,2020-10-10,,Yes
+CUST-000899,Female,1,44.0,106.92,,Two year,DSL,Yes,2021-09-21,,No
+CUST-000900,Male,0,0.0,35.86,0.0,Two year,Fiber optic,Yes,2023-09-14,,No
+CUST-000901,Female,0,3.0,57.19,157.19,One year,DSL,No,2020-09-21,,Yes
+CUST-000902,Male,0,15.0,99.12,1600.41,Month-to-month,DSL,No,2023-03-21,Complained about service outage in the area.,Yes
+CUST-000903,Female,0,63.0,74.0,4939.41,One year,DSL,No,2022-11-11,,No
+CUST-000904,Female,0,33.0,76.27,2703.0,Two year,DSL,No,2021-05-31,,No
+CUST-000905,Female,0,51.0,67.29,3567.98,Two year,Fiber optic,Yes,2021-05-19,,No
+CUST-000906,Male,0,29.0,71.6,2148.72,Month-to-month,Fiber optic,Yes,2023-11-22,Complained about service outage in the area.,No
+CUST-000907,Male,1,12.0,80.55,971.45,Month-to-month,DSL,Yes,2022-12-07,"Long-time customer, referred two friends this year.",No
+CUST-000908,Female,0,26.0,48.81,1307.84,Month-to-month,No,Yes,2020-12-24,,Yes
+CUST-000909,Female,0,6.0,82.56,536.88,Month-to-month,No,Yes,2023-09-29,"Requested upgrade to fiber, scheduled for next week.",Yes
+CUST-000910,Female,0,55.0,37.54,1899.74,One year,DSL,Yes,2021-09-02,Complained about service outage in the area.,No
+CUST-000911,Male,0,13.0,71.57,896.13,Month-to-month,Fiber optic,Yes,2020-04-29,,No
+CUST-000912,Female,0,27.0,68.57,1693.08,Month-to-month,Fiber optic,Yes,2023-05-05,,No
+CUST-000913,Female,0,70.0,52.67,4014.89,Month-to-month,Fiber optic,No,2023-07-27,,No
+CUST-000914,Male,0,42.0,64.55,2681.42,Month-to-month,Fiber optic,No,2021-10-26,,No
+CUST-000915,Female,0,33.0,52.55,1794.96,Month-to-month,Fiber optic,No,2022-11-21,"Called about billing issue, resolved same day.",No
+CUST-000916,Male,0,39.0,43.57,1815.16,Month-to-month,DSL,Yes,2020-12-17,,Yes
+CUST-000917,Female,0,56.0,57.93,3562.65,Month-to-month,DSL,Yes,2023-06-29,"Called about billing issue, resolved same day.",No
+CUST-000918,Female,0,18.0,42.92,720.3,Two year,Fiber optic,No,2021-07-06,Complained about service outage in the area.,No
+CUST-000919,Female,0,45.0,71.46,3408.33,Month-to-month,Fiber optic,No,2021-02-04,,No
+CUST-000920,Male,0,62.0,42.0,2805.77,Month-to-month,No,Yes,2022-01-21,,No
+CUST-000921,Female,1,41.0,79.24,2955.71,Month-to-month,DSL,Yes,2021-02-04,,No
+CUST-000922,Female,0,32.0,41.37,1391.12,Month-to-month,DSL,Yes,2022-07-19,,No
+CUST-000923,Female,0,10.0,53.67,521.11,Month-to-month,DSL,No,2023-01-26,,Yes
+CUST-000924,Male,0,17.0,52.51,919.2,Month-to-month,DSL,No,2021-08-31,,No
+CUST-000925,Female,0,68.0,91.5,6239.48,Month-to-month,DSL,Yes,2023-03-21,"Requested upgrade to fiber, scheduled for next week.",No
+CUST-000926,Male,0,38.0,71.61,2590.42,Month-to-month,Fiber optic,Yes,2021-10-08,,Yes
+CUST-000927,Female,0,21.0,60.77,1183.07,One year,Fiber optic,Yes,2023-12-26,Complained about service outage in the area.,Yes
+CUST-000928,Female,1,30.0,74.97,2076.8,Month-to-month,Fiber optic,Yes,2021-01-30,,No
+CUST-000929,Female,1,41.0,22.86,862.9,Month-to-month,Fiber optic,No,2022-11-23,,No
+CUST-000930,Female,0,38.0,64.14,2504.49,One year,DSL,Yes,2022-03-14,"Long-time customer, referred two friends this year.",No
+CUST-000931,Female,0,50.0,104.95,5091.56,Month-to-month,Fiber optic,Yes,2023-11-16,"Requested upgrade to fiber, scheduled for next week.",No
+CUST-000932,Female,0,18.0,67.65,1148.69,Month-to-month,DSL,Yes,2020-11-25,,No
+CUST-000933,Female,0,46.0,66.36,3169.71,Month-to-month,No,No,2020-10-22,,Yes
+CUST-000934,Female,0,31.0,75.96,2442.76,Month-to-month,DSL,Yes,2023-07-25,,Yes
+CUST-000935,Male,0,67.0,82.91,5598.49,Month-to-month,Fiber optic,Yes,2023-09-13,,No
+CUST-000936,Male,0,11.0,25.05,299.52,Two year,No,No,2023-01-26,"Called about billing issue, resolved same day.",Yes
+CUST-000937,Female,0,10.0,31.35,306.32,Two year,Fiber optic,No,2021-12-13,,No
+CUST-000938,Male,0,33.0,69.21,2437.35,Two year,Fiber optic,No,2021-09-07,"Long-time customer, referred two friends this year.",No
+CUST-000939,Female,0,36.0,50.7,1670.11,Month-to-month,Fiber optic,No,2022-09-26,"Long-time customer, referred two friends this year.",No
+CUST-000940,Male,1,49.0,91.24,4685.21,Month-to-month,DSL,Yes,2023-01-25,Complained about service outage in the area.,No
+CUST-000941,Male,0,29.0,58.7,1868.6,Month-to-month,Fiber optic,No,2021-02-17,"Long-time customer, referred two friends this year.",No
+CUST-000942,Female,0,65.0,26.31,1828.7,Month-to-month,No,No,2020-01-11,,Yes
+CUST-000943,Female,0,34.0,39.64,1369.23,Month-to-month,No,Yes,2020-04-20,,Yes
+CUST-000944,Male,0,9.0,10.01,92.37,Month-to-month,,No,2021-05-31,Complained about service outage in the area.,Yes
+CUST-000945,Male,0,8.0,60.32,468.4,Month-to-month,DSL,Yes,2022-10-19,"Long-time customer, referred two friends this year.",No
+CUST-000946,Female,1,70.0,61.23,4439.96,Month-to-month,Fiber optic,Yes,2021-10-22,"Called about billing issue, resolved same day.",No
+CUST-000947,Male,0,9.0,56.51,536.09,Month-to-month,Fiber optic,Yes,2022-07-16,"Long-time customer, referred two friends this year.",No
+CUST-000948,Male,0,68.0,86.58,6474.1,One year,,Yes,2021-12-05,,No
+CUST-000949,Female,1,20.0,88.97,1776.72,Month-to-month,DSL,No,2021-01-12,"Called about billing issue, resolved same day.",No
+CUST-000950,Female,0,6.0,61.59,337.12,Two year,DSL,Yes,2023-01-28,,Yes
+CUST-000951,Female,0,21.0,22.31,477.49,Month-to-month,Fiber optic,Yes,2022-12-21,"Called about billing issue, resolved same day.",Yes
+CUST-000952,Female,1,44.0,77.35,3144.08,Month-to-month,DSL,Yes,2023-12-15,"Called about billing issue, resolved same day.",No
+CUST-000953,Female,0,30.0,,,Month-to-month,DSL,Yes,2023-05-23,Complained about service outage in the area.,No
+CUST-000954,Female,0,56.0,71.19,3850.12,Month-to-month,DSL,Yes,2021-07-23,,No
+CUST-000955,Male,0,43.0,84.63, ,Month-to-month,No,Yes,2022-11-23,"Called about billing issue, resolved same day.",No
+CUST-000956,Male,0,28.0,41.7,1093.76,Month-to-month,DSL,No,2021-06-09,,No
+CUST-000957,Male,0,45.0,105.18,4416.7,One year,DSL,No,2023-08-02,,No
+CUST-000958,Female,0,69.0,45.81,2873.23,Month-to-month,Fiber optic,Yes,2022-07-04,Complained about service outage in the area.,No
+CUST-000959,Female,1,29.0,79.98,2492.56,Month-to-month,DSL,No,2023-06-05,,No
+CUST-000960,Male,0,11.0,31.25,357.05,Two year,No,No,2021-02-25,Complained about service outage in the area.,No
+CUST-000961,Female,0,29.0,46.39,1221.53,Month-to-month,No,No,2020-01-23,"Requested upgrade to fiber, scheduled for next week.",No
+CUST-000962,Male,0,60.0,,5180.19,One year,Fiber optic,Yes,2020-07-31,"Long-time customer, referred two friends this year.",No
+CUST-000963,Female,1,15.0,59.78,907.22,Month-to-month,Fiber optic,Yes,2022-03-08,,No
+CUST-000964,Male,0,68.0,81.8,5320.47,Month-to-month,Fiber optic,No,2023-12-13,,No
+CUST-000965,Male,0,42.0,69.74,2985.74,Month-to-month,DSL,Yes,2022-07-29,"Called about billing issue, resolved same day.",No
+CUST-000966,Male,0,43.0,62.9,2669.32,Month-to-month,DSL,Yes,2023-04-29,"Long-time customer, referred two friends this year.",No
+CUST-000967,Male,0,22.0,92.28,2202.04,One year,DSL,No,2021-12-04,,No
+CUST-000968,Female,1,66.0,60.27,3809.01,Month-to-month,DSL,Yes,2023-12-08,,No
+CUST-000969,Male,1,2.0,29.39,60.89,Month-to-month,Fiber optic,No,2023-11-12,"Requested upgrade to fiber, scheduled for next week.",No
+CUST-000970,Male,0,21.0,,936.08,Month-to-month,DSL,Yes,2020-11-22,"Long-time customer, referred two friends this year.",No
+CUST-000971,Female,0,30.0,76.02,2488.53,Two year,DSL,No,2023-07-17,,No
+CUST-000972,Male,0,34.0,72.91,2717.29,One year,Fiber optic,Yes,2020-01-27,,No
+CUST-000973,Female,0,34.0,33.66,1199.16,Two year,Fiber optic,Yes,2022-06-07,,No
+CUST-000974,Female,0,10.0,50.51,501.59,One year,DSL,No,2021-10-17,,Yes
+CUST-000975,Female,0,16.0,53.37,806.1,One year,DSL,Yes,2021-03-27,,No
+CUST-000976,Female,0,6.0,57.69,367.77,Month-to-month,DSL,No,2023-11-01,"Called about billing issue, resolved same day.",Yes
+CUST-000977,Male,1,41.0,37.48,1609.32,Two year,DSL,No,2022-09-20,,No
+CUST-000978,Female,0,25.0,52.43,1237.86,Month-to-month,No,Yes,2020-07-26,"Long-time customer, referred two friends this year.",No
+CUST-000979,Female,0,40.0,50.43,1997.52,Month-to-month,,Yes,2020-07-27,,No
+CUST-000980,Female,0,42.0,80.43,3352.93,One year,Fiber optic,No,2020-06-24,"Long-time customer, referred two friends this year.",No
+CUST-000981,Female,0,50.0,81.18,4323.98,Month-to-month,Fiber optic,No,2021-04-01,,Yes
+CUST-000982,Male,0,39.0,62.08,2510.14,Month-to-month,Fiber optic,No,2020-04-13,,No
+CUST-000983,Male,0,46.0,57.16,2704.65,Month-to-month,Fiber optic,Yes,2021-01-31,,No
+CUST-000984,Female,0,42.0,67.8,,Month-to-month,DSL,No,2023-02-21,,No
+CUST-000985,Female,0,46.0,48.67, ,Two year,DSL,Yes,2023-08-03,"Called about billing issue, resolved same day.",No
+CUST-000986,Male,1,44.0,42.06,1803.16,Month-to-month,Fiber optic,No,2023-03-24,Complained about service outage in the area.,No
+CUST-000987,Male,1,22.0,46.2,,Two year,Fiber optic,Yes,2022-01-14,"Called about billing issue, resolved same day.",Yes
+CUST-000988,Male,0,17.0,52.3,940.12,Month-to-month,,Yes,2022-11-09,,Yes
+CUST-000989,Male,0,56.0,41.73,2305.56,One year,DSL,No,2023-11-16,,No
+CUST-000990,Male,0,24.0,68.24,1617.53,Month-to-month,DSL,No,2020-03-20,,No
+CUST-000991,Female,0,39.0,79.59,,Two year,DSL,Yes,2023-09-18,"Long-time customer, referred two friends this year.",No
+CUST-000992,Female,1,14.0,33.26,438.58,Month-to-month,Fiber optic,No,2022-12-20,,No
+CUST-000993,Female,1,31.0,65.5,2066.16,Month-to-month,Fiber optic,Yes,2021-08-02,,No
+CUST-000994,Male,0,38.0,60.6,2179.62,Month-to-month,Fiber optic,Yes,2021-11-03,,No
+CUST-000995,Female,0,45.0,71.83,2950.62,Month-to-month,DSL,Yes,2021-10-19,,No
+CUST-000996,Female,0,37.0,64.74,2523.54,Month-to-month,DSL,Yes,2020-08-24,"Called about billing issue, resolved same day.",Yes
+CUST-000997,Female,0,25.0,35.93,876.06,One year,No,Yes,2020-12-11,,No
+CUST-000998,Male,1,69.0,39.75,2677.05,Two year,Fiber optic,Yes,2021-03-18,,No
+CUST-000999,Male,0,36.0,65.59,2328.81,One year,DSL,Yes,2020-01-09,,No
+CUST-001000,Male,0,58.0,85.58,5276.39,Month-to-month,DSL,No,2022-01-21,,Yes
+CUST-001001,Female,0,53.0,20.72,1058.81,Month-to-month,No,No,2021-12-15,"Called about billing issue, resolved same day.",No
+CUST-001002,Male,0,40.0,71.91,3024.84,Two year,Fiber optic,No,2021-05-09,Complained about service outage in the area.,No
+CUST-001003,Female,0,63.0,88.79,,Two year,No,Yes,2020-09-21,"Called about billing issue, resolved same day.",No
+CUST-001004,Male,1,9.0,61.94,575.4,Month-to-month,Fiber optic,No,2023-12-25,"Called about billing issue, resolved same day.",No
+CUST-001005,Female,0,66.0,76.0,4947.46,Two year,Fiber optic,Yes,2022-10-14,,No
+CUST-001006,Male,0,61.0,50.94,3261.33,Month-to-month,Fiber optic,No,2021-12-13,"Called about billing issue, resolved same day.",No
+CUST-001007,Male,0,36.0,62.61,2234.98,Two year,DSL,Yes,2022-12-20,"Called about billing issue, resolved same day.",No
+CUST-001008,Female,0,52.0,32.58,,Two year,Fiber optic,Yes,2021-07-12,,No
+CUST-001009,Female,0,37.0,18.11,673.46,One year,Fiber optic,Yes,2020-11-19,,No
+CUST-001010,Female,0,19.0,83.86,1535.25,Month-to-month,DSL,No,2022-10-06,"Requested upgrade to fiber, scheduled for next week.",No
+CUST-001011,Male,0,57.0,45.3,2377.73,One year,No,No,2023-03-01,,No
+CUST-001012,Male,0,17.0,55.89,933.95,Month-to-month,Fiber optic,No,2022-09-02,Complained about service outage in the area.,No
+CUST-001013,Male,0,22.0,37.27,758.26,One year,DSL,No,2022-04-29,,No
+CUST-001014,Female,0,37.0,36.8,1337.21,Month-to-month,DSL,No,2020-01-04,Complained about service outage in the area.,No
+CUST-001015,Male,1,60.0,61.52,3733.23,One year,No,Yes,2022-08-14,"Requested upgrade to fiber, scheduled for next week.",No
+CUST-001016,Male,0,27.0,50.41,1478.32,Two year,No,No,2022-07-16,,No
+CUST-001017,Female,0,35.0,72.56,2304.04,Month-to-month,Fiber optic,Yes,2021-09-10,Complained about service outage in the area.,Yes
+CUST-001018,Male,0,2.0,74.05,151.7,Month-to-month,No,Yes,2020-12-31,,Yes
+CUST-001019,Male,0,8.0,71.42,566.53,One year,No,Yes,2024-01-08,,No
+CUST-001020,Male,0,4.0,69.77,252.3,Month-to-month,No,No,2021-07-16,"Called about billing issue, resolved same day.",Yes
+CUST-001021,Female,0,5.0,96.56,458.62,Month-to-month,No,No,2021-02-12,Complained about service outage in the area.,Yes
+CUST-001022,Male,0,62.0,43.65,2499.8,Month-to-month,Fiber optic,Yes,2022-11-25,,No
+CUST-001023,Male,0,60.0,63.9,3616.84,Month-to-month,Fiber optic,Yes,2021-12-23,,No
+CUST-001024,Male,0,59.0,87.65,4938.19,One year,Fiber optic,Yes,2022-04-16,,No
+CUST-001025,Female,1,4.0,90.29,354.03,One year,Fiber optic,No,2022-08-30,,Yes
+CUST-001026,Female,0,5.0,36.56,183.86,Month-to-month,DSL,No,2021-07-06,Complained about service outage in the area.,Yes
+CUST-001027,Male,1,20.0,58.75,1057.73,Month-to-month,Fiber optic,Yes,2020-08-16,"Long-time customer, referred two friends this year.",Yes
+CUST-001028,Male,0,40.0,92.16,3437.1,Month-to-month,No,Yes,2020-09-08,,Yes
+CUST-001029,Male,0,24.0,75.16,1657.21,Month-to-month,DSL,Yes,2023-11-10,,No
+CUST-001030,Female,0,35.0,68.91,2435.81,One year,No,Yes,2022-01-28,,No
+CUST-001031,Male,0,12.0,60.65,702.92,Month-to-month,Fiber optic,Yes,2021-09-17,,Yes
+CUST-001032,Male,0,52.0,57.32,3009.49,Month-to-month,DSL,Yes,2021-04-24,,Yes
+CUST-001033,Male,0,22.0,70.76,1470.11,Two year,DSL,Yes,2022-12-18,,No
+CUST-001034,Female,0,4.0,59.95,216.98,Month-to-month,Fiber optic,Yes,2023-10-01,,Yes
+CUST-001035,Female,0,53.0,64.15,3700.08,One year,Fiber optic,No,2023-02-27,"Called about billing issue, resolved same day.",No
+CUST-001036,Female,0,65.0,66.57,3988.08,Month-to-month,DSL,Yes,2022-03-12,Complained about service outage in the area.,No
+CUST-001037,Male,0,1.0,51.44,47.6,Month-to-month,Fiber optic,Yes,2021-12-14,,Yes
+CUST-001038,Male,0,31.0,75.64,2179.08,Month-to-month,DSL,No,2023-07-22,"Called about billing issue, resolved same day.",Yes
+CUST-001039,Male,0,59.0,123.28,7973.63,One year,Fiber optic,No,2023-07-08,"Called about billing issue, resolved same day.",No
+CUST-001040,Male,0,50.0,29.46,1507.66,Two year,No,Yes,2021-08-08,Complained about service outage in the area.,No
+CUST-001041,Female,0,61.0,71.48,4456.46,Month-to-month,Fiber optic,Yes,2023-12-17,"Requested upgrade to fiber, scheduled for next week.",No
+CUST-001042,Female,0,29.0,49.8,1584.78,Month-to-month,Fiber optic,No,2023-05-26,"Requested upgrade to fiber, scheduled for next week.",No
+CUST-001043,Male,0,26.0,76.55,1826.47,Month-to-month,Fiber optic,Yes,2023-06-23,,No
+CUST-001044,Female,0,51.0,65.93,3681.53,One year,No,No,2020-03-25,,No
+CUST-001045,Male,0,11.0,80.24,830.39,One year,DSL,Yes,2020-07-14,,Yes
+CUST-001046,Female,0,17.0,88.51,1541.71,One year,DSL,Yes,2021-03-23,,No
+CUST-001047,Female,0,43.0,68.85,2913.23,Two year,DSL,Yes,2023-02-15,"Called about billing issue, resolved same day.",No
+CUST-001048,Male,0,48.0,87.64,4109.08,Month-to-month,Fiber optic,No,2020-04-27,Complained about service outage in the area.,No
+CUST-001049,Female,0,8.0,18.11,157.38,One year,Fiber optic,Yes,2020-05-04,,No
+CUST-001050,Female,0,36.0,96.81, ,One year,Fiber optic,Yes,2020-02-17,"Called about billing issue, resolved same day.",No
+CUST-001051,Male,0,26.0,72.5,2072.4,Month-to-month,DSL,Yes,2020-10-14,,No
+CUST-001052,Male,0,36.0,86.56,3040.83,Two year,DSL,No,2023-10-10,,No
+CUST-001053,Female,0,69.0,40.6,2884.76,Month-to-month,Fiber optic,Yes,2022-12-17,"Requested upgrade to fiber, scheduled for next week.",No
+CUST-001054,Male,0,5.0,48.38,264.54,One year,No,No,2022-12-11,"Called about billing issue, resolved same day.",No
+CUST-001055,Male,0,71.0,67.92,4395.64,One year,,No,2021-03-14,Complained about service outage in the area.,No
+CUST-001056,Female,0,32.0,64.66,2244.11,Two year,DSL,Yes,2022-07-26,,No
+CUST-001057,Female,0,55.0,70.66,3939.01,Month-to-month,DSL,No,2023-03-14,,No
+CUST-001058,Female,1,30.0,86.69,2707.01,Month-to-month,Fiber optic,No,2022-03-09,,Yes
+CUST-001059,Male,0,22.0,29.7,607.56,Two year,DSL,Yes,2023-07-08,,No
+CUST-001060,Female,0,55.0,84.48,4677.43,One year,DSL,Yes,2022-05-04,"Called about billing issue, resolved same day.",No
+CUST-001061,Male,0,49.0,65.17,3304.15,Month-to-month,Fiber optic,Yes,2021-05-01,"Long-time customer, referred two friends this year.",No
+CUST-001062,Female,0,10.0,60.92,603.87,One year,DSL,Yes,2022-08-16,,No
+CUST-001063,Female,1,50.0,35.58,1656.24,Month-to-month,Fiber optic,Yes,2023-11-15,Complained about service outage in the area.,No
+CUST-001064,Male,0,54.0,,3845.81,One year,DSL,No,2023-05-24,,No
+CUST-001065,Female,0,27.0,16.72,483.44,Two year,No,No,2022-01-17,"Long-time customer, referred two friends this year.",No
+CUST-001066,Female,0,66.0,77.97,4666.9,Month-to-month,Fiber optic,Yes,2022-06-14,,Yes
+CUST-001067,Female,0,46.0,35.16,1684.92,Month-to-month,DSL,Yes,2024-01-03,"Requested upgrade to fiber, scheduled for next week.",No
+CUST-001068,Male,0,24.0,66.07,1744.05,Two year,DSL,Yes,2023-01-27,"Long-time customer, referred two friends this year.",No
+CUST-001069,Female,0,0.0,62.62,0.0,One year,Fiber optic,Yes,2022-01-23,"Called about billing issue, resolved same day.",No
+CUST-001070,Male,1,48.0,88.39,3955.1,Two year,No,Yes,2021-02-25,,No
+CUST-001071,Male,1,15.0,61.43,953.54,Month-to-month,DSL,No,2023-09-20,,Yes
+CUST-001072,Male,0,54.0,51.12,2517.55,Two year,DSL,No,2024-01-05,,No
+CUST-001073,Female,1,37.0,54.87,2066.65,Month-to-month,DSL,Yes,2020-04-16,"Long-time customer, referred two friends this year.",Yes
+CUST-001074,Female,0,33.0,90.46,3095.03,Month-to-month,Fiber optic,No,2020-02-17,,Yes
+CUST-001075,Female,0,11.0,75.73,847.72,Month-to-month,No,Yes,2020-06-21,"Long-time customer, referred two friends this year.",Yes
+CUST-001076,Male,1,51.0,57.29,2843.01,One year,Fiber optic,No,2021-08-02,"Called about billing issue, resolved same day.",No
+CUST-001077,Female,0,11.0,60.27,689.13,Two year,DSL,Yes,2020-08-27,,No
+CUST-001078,Male,0,30.0,33.66,1028.84,One year,Fiber optic,Yes,2023-08-16,,No
+CUST-001079,Male,0,60.0,72.77,4110.9,One year,Fiber optic,No,2023-10-03,"Requested upgrade to fiber, scheduled for next week.",No
+CUST-001080,Female,0,66.0,29.8,1991.63,Month-to-month,DSL,Yes,2020-09-27,"Called about billing issue, resolved same day.",No
+CUST-001081,Female,0,71.0,80.04,6116.9,Month-to-month,DSL,Yes,2023-05-28,"Called about billing issue, resolved same day.",No
+CUST-001082,Female,0,68.0,67.57,4748.07,Month-to-month,Fiber optic,Yes,2020-07-31,"Long-time customer, referred two friends this year.",No
+CUST-001083,Male,0,40.0,112.74,4484.16,Month-to-month,Fiber optic,No,2023-03-26,,No
+CUST-001084,Female,0,14.0,43.0,580.52,Month-to-month,Fiber optic,No,2021-07-02,,Yes
+CUST-001085,Female,0,60.0,62.95,3464.18,Two year,Fiber optic,Yes,2020-03-01,"Long-time customer, referred two friends this year.",No
+CUST-001086,Female,0,57.0,100.97,5461.34,One year,No,Yes,2021-10-04,,No
+CUST-001087,Male,0,71.0,88.83,5690.35,One year,DSL,No,2023-05-19,,No
+CUST-001088,Male,0,46.0,51.08,2578.36,Month-to-month,DSL,Yes,2023-11-01,"Requested upgrade to fiber, scheduled for next week.",No
+CUST-001089,Female,0,10.0,69.48,656.24,Month-to-month,DSL,Yes,2020-06-30,,Yes
+CUST-001090,Female,0,36.0,65.04,2488.89,Month-to-month,No,No,2023-06-08,,Yes
+CUST-001091,Female,0,32.0,70.64,2110.68,Month-to-month,Fiber optic,Yes,2021-03-15,,No
+CUST-001092,Female,1,60.0,51.03,2929.29,Month-to-month,DSL,No,2021-11-27,"Requested upgrade to fiber, scheduled for next week.",No
+CUST-001093,Male,0,28.0,63.21,1740.95,Month-to-month,DSL,Yes,2020-06-12,,Yes
+CUST-001094,Female,0,23.0,33.04,733.23,Month-to-month,Fiber optic,No,2023-12-30,,No
+CUST-001095,Male,0,5.0,67.7,358.7,One year,Fiber optic,Yes,2023-03-31,,No
+CUST-001096,Female,0,60.0,74.0,4846.43,Month-to-month,Fiber optic,Yes,2022-08-21,Complained about service outage in the area.,No
+CUST-001097,Female,0,54.0,60.45,3509.31,Month-to-month,DSL,Yes,2022-12-26,,No
+CUST-001098,Male,0,2.0,32.7,60.87,Month-to-month,No,No,2023-08-03,Complained about service outage in the area.,Yes
+CUST-001099,Male,0,31.0,84.77,2773.29,Month-to-month,Fiber optic,No,2020-08-03,,No
+CUST-001100,Male,1,34.0,72.29,2284.8,Month-to-month,Fiber optic,No,2021-01-04,,Yes
+CUST-001101,Female,0,33.0,50.48,1803.57,Month-to-month,Fiber optic,Yes,2020-02-26,,No
+CUST-001102,Female,0,66.0,59.39,3933.76,One year,No,Yes,2022-01-03,,No
+CUST-001103,Female,0,10.0,34.99,338.45,Month-to-month,No,No,2022-01-11,"Long-time customer, referred two friends this year.",Yes
+CUST-001104,Male,1,22.0,44.49,911.64,Two year,Fiber optic,No,2020-02-14,"Requested upgrade to fiber, scheduled for next week.",No
+CUST-001105,Female,1,13.0,383.8548704384621,4502.89,Month-to-month,Fiber optic,Yes,2022-09-19,,Yes
+CUST-001106,Male,0,17.0,89.57,1445.93,Month-to-month,Fiber optic,No,2020-01-14,,Yes
+CUST-001107,Male,0,65.0,52.21,3674.66,Month-to-month,No,Yes,2023-04-04,Complained about service outage in the area.,No
+CUST-001108,Male,0,67.0,77.8,5522.5,Month-to-month,Fiber optic,Yes,2022-11-24,"Long-time customer, referred two friends this year.",No
+CUST-001109,Female,0,3.0,54.23,177.98,Month-to-month,DSL,No,2023-05-07,,No
+CUST-001110,Female,0,45.0,69.96,2896.82,Two year,DSL,Yes,2020-06-26,,No
+CUST-001111,Female,0,16.0,62.17,1013.06,Month-to-month,No,Yes,2023-07-29,,Yes
+CUST-001112,Female,1,13.0,82.46,1019.91,One year,,Yes,2022-04-01,Complained about service outage in the area.,No
+CUST-001113,Male,0,21.0,54.3,1150.09,Month-to-month,No,No,2023-07-19,Complained about service outage in the area.,No
+CUST-001114,Female,0,13.0,33.55,420.49,Month-to-month,Fiber optic,Yes,2022-11-10,,Yes
+CUST-001115,Male,0,35.0,37.36,1250.97,Month-to-month,,No,2022-09-11,,Yes
+CUST-001116,Female,0,71.0,54.36,3916.56,Month-to-month,No,Yes,2020-02-18,"Requested upgrade to fiber, scheduled for next week.",No
+CUST-001117,Male,0,42.0,40.02,1574.38,Month-to-month,DSL,Yes,2022-11-03,,No
+CUST-001118,Female,0,52.0,73.2,3782.9,Two year,DSL,Yes,2021-11-04,"Long-time customer, referred two friends this year.",No
+CUST-001119,Female,0,35.0,55.68,2007.58,One year,No,Yes,2023-06-27,,No
+CUST-001120,Female,0,1.0,112.49,104.12,Two year,DSL,Yes,2022-10-23,,Yes
+CUST-001121,Female,0,6.0,30.25,197.13,Month-to-month,Fiber optic,Yes,2020-04-21,"Long-time customer, referred two friends this year.",Yes
+CUST-001122,Male,0,19.0,69.07,1313.83,One year,Fiber optic,No,2023-08-27,,No
+CUST-001123,Male,0,17.0,42.44,767.59,One year,Fiber optic,Yes,2020-04-04,"Requested upgrade to fiber, scheduled for next week.",No
+CUST-001124,Female,0,60.0,55.13,3409.62,One year,DSL,No,2021-03-24,,No
+CUST-001125,Female,1,60.0,,4240.73,Two year,Fiber optic,No,2020-11-21,,No
+CUST-001126,Male,1,61.0,18.49,1176.64,One year,DSL,Yes,2024-01-01,"Called about billing issue, resolved same day.",No
+CUST-001127,Female,0,45.0,69.74,3373.74,Two year,No,Yes,2020-08-17,,No
+CUST-001128,Male,0,40.0,103.06,4216.07,One year,DSL,Yes,2023-06-20,"Requested upgrade to fiber, scheduled for next week.",No
+CUST-001129,Female,0,46.0,55.93,2458.66,Month-to-month,Fiber optic,Yes,2020-11-29,"Called about billing issue, resolved same day.",Yes
+CUST-001130,Male,0,29.0,70.2, ,One year,Fiber optic,Yes,2022-09-02,"Called about billing issue, resolved same day.",No
+CUST-001131,Male,0,48.0,85.5,4191.21,Month-to-month,DSL,Yes,2020-05-15,,Yes
+CUST-001132,Female,0,57.0,61.72,3212.92,Two year,DSL,Yes,2021-08-10,,No
+CUST-001133,Female,0,54.0,53.38,2733.37,Two year,Fiber optic,Yes,2022-07-23,,No
+CUST-001134,Female,0,44.0,19.49,782.22,Month-to-month,DSL,No,2022-12-02,Complained about service outage in the area.,No
+CUST-001135,Female,0,4.0,77.82,314.32,Month-to-month,DSL,Yes,2023-08-01,"Long-time customer, referred two friends this year.",Yes
+CUST-001136,Female,0,52.0,62.74,3040.85,Month-to-month,Fiber optic,Yes,2023-05-09,,No
+CUST-001137,Male,0,26.0,184.7546867167102,,Month-to-month,No,Yes,2022-02-16,"Called about billing issue, resolved same day.",Yes
+CUST-001138,Female,0,53.0,67.53,3787.3,Month-to-month,Fiber optic,No,2021-03-30,,Yes
+CUST-001139,Female,0,38.0,53.33,2157.0,One year,Fiber optic,Yes,2021-01-26,,No
+CUST-001140,Female,0,63.0,54.43,3298.47,One year,No,Yes,2024-01-29,,No
+CUST-001141,Female,0,24.0,77.13,1869.24,Two year,Fiber optic,No,2022-07-01,"Requested upgrade to fiber, scheduled for next week.",No
+CUST-001142,Male,0,67.0,38.23,2593.69,Month-to-month,Fiber optic,Yes,2023-09-24,"Long-time customer, referred two friends this year.",No
+CUST-001143,Female,1,60.0,85.95,5129.04,Month-to-month,Fiber optic,Yes,2021-10-12,,No
+CUST-001144,Female,0,23.0,37.05,878.59,Month-to-month,DSL,Yes,2021-12-29,,Yes
+CUST-001145,Male,1,34.0,51.75,1657.48,Two year,DSL,No,2023-05-23,,No
+CUST-001146,Female,0,38.0,103.46,4308.31,Month-to-month,Fiber optic,No,2022-12-20,,No
+CUST-001147,Male,0,55.0,87.55,4428.18,Month-to-month,DSL,No,2020-10-28,"Called about billing issue, resolved same day.",No
+CUST-001148,Female,0,49.0,66.95,3496.56,Month-to-month,Fiber optic,Yes,2022-02-25,,No
+CUST-001149,Female,0,61.0,46.19,2870.61,Two year,DSL,Yes,2020-11-16,"Long-time customer, referred two friends this year.",No
+CUST-001150,Male,0,26.0,54.41,1342.47,Month-to-month,Fiber optic,Yes,2023-02-15,,No
+CUST-001151,Female,1,36.0,66.47,2510.5,One year,DSL,No,2020-02-14,,No
+CUST-001152,Male,0,31.0,65.75,1868.86,One year,Fiber optic,No,2023-05-25,"Requested upgrade to fiber, scheduled for next week.",No
+CUST-001153,Female,0,65.0,63.18,4332.09,One year,Fiber optic,No,2023-10-25,,No
+CUST-001154,Female,0,21.0,64.38,1376.31,Month-to-month,Fiber optic,Yes,2020-02-04,,No
+CUST-001155,Male,0,42.0,60.71,2351.32,Month-to-month,DSL,No,2022-08-03,"Requested upgrade to fiber, scheduled for next week.",No
+CUST-001156,Male,0,8.0,36.16,264.95,Month-to-month,DSL,No,2020-04-28,,No
+CUST-001157,Male,0,61.0,54.67,3502.17,Month-to-month,No,No,2021-06-24,,No
+CUST-001158,Male,0,27.0,83.29,2155.7,One year,DSL,No,2021-05-19,,No
+CUST-001159,Male,0,24.0,37.63,973.44,Month-to-month,Fiber optic,Yes,2022-02-18,,Yes
+CUST-001160,Male,0,41.0,61.21,2641.15,Month-to-month,DSL,No,2023-10-08,"Long-time customer, referred two friends this year.",Yes
+CUST-001161,Male,0,35.0,48.6,1768.42,Month-to-month,DSL,Yes,2021-11-23,,Yes
+CUST-001162,Male,0,61.0,67.23,3919.44,One year,Fiber optic,Yes,2021-08-20,,No
+CUST-001163,Male,0,38.0,57.23,2265.62,Month-to-month,Fiber optic,No,2020-05-19,,No
+CUST-001164,Male,0,37.0,94.55,3811.91,One year,DSL,No,2023-08-24,,No
+CUST-001165,Female,0,7.0,75.13,482.95,Month-to-month,,No,2021-04-17,,Yes
+CUST-001166,Female,0,1.0,38.76,37.41,Two year,DSL,Yes,2021-11-24,Complained about service outage in the area.,No
+CUST-001167,Male,0,28.0,78.42,2079.24,One year,Fiber optic,Yes,2020-05-18,,No
+CUST-001168,Female,0,71.0,49.51, ,Month-to-month,Fiber optic,Yes,2021-03-09,,No
+CUST-001169,Male,0,66.0,53.46,3699.37,Month-to-month,,No,2022-04-10,"Long-time customer, referred two friends this year.",No
+CUST-001170,Female,0,45.0,71.28,3191.08,Month-to-month,Fiber optic,No,2023-09-12,,No
+CUST-001171,Male,0,45.0,55.17,2517.77,Month-to-month,DSL,No,2021-05-08,,No
+CUST-001172,Male,0,28.0,82.86,2233.84,Month-to-month,No,Yes,2022-04-21,,Yes
+CUST-001173,Female,0,12.0,49.51,551.5,Two year,Fiber optic,Yes,2023-08-06,Complained about service outage in the area.,No
+CUST-001174,Male,0,0.0,52.62,0.0,One year,No,No,2021-06-24,Complained about service outage in the area.,Yes
+CUST-001175,Female,0,24.0,51.87,1334.43,Month-to-month,No,Yes,2021-03-18,,Yes
+CUST-001176,Male,0,22.0,53.69,1205.37,One year,No,No,2020-03-07,,No
+CUST-001177,Male,1,13.0,86.98,1103.15,Month-to-month,Fiber optic,Yes,2023-09-23,,Yes
+CUST-001178,Male,0,18.0,77.58,1477.41,Two year,Fiber optic,Yes,2020-06-15,,No
+CUST-001179,Female,0,1.0,99.2,90.56,Month-to-month,Fiber optic,Yes,2020-11-19,,No
+CUST-001180,Male,0,43.0,110.35,4511.49,One year,Fiber optic,No,2020-07-27,"Called about billing issue, resolved same day.",Yes
+CUST-001181,Female,0,66.0,44.39,2771.59,One year,Fiber optic,No,2022-11-27,"Long-time customer, referred two friends this year.",No
+CUST-001182,Female,0,49.0,66.41,3569.97,Month-to-month,Fiber optic,No,2021-07-01,,No
+CUST-001183,Female,0,32.0,41.48,1382.07,Month-to-month,DSL,No,2022-11-23,,Yes
+CUST-001184,Female,0,30.0,49.45,1518.45,Month-to-month,No,Yes,2022-06-29,"Called about billing issue, resolved same day.",No
+CUST-001185,Female,0,22.0,52.4,1038.67,Two year,DSL,No,2020-01-23,,No
+CUST-001186,Female,0,10.0,43.86,410.91,Month-to-month,No,No,2021-04-06,"Long-time customer, referred two friends this year.",Yes
+CUST-001187,Male,1,43.0,43.96,1941.52,One year,DSL,Yes,2020-01-07,,No
+CUST-001188,Male,0,40.0,404.1222472447623,15776.03,One year,DSL,No,2020-04-08,,Yes
+CUST-001189,Female,0,0.0,40.67,0.0,Two year,No,Yes,2021-12-10,,No
+CUST-001190,Male,0,29.0,81.84,2499.02,Month-to-month,No,Yes,2021-02-01,"Requested upgrade to fiber, scheduled for next week.",Yes
+CUST-001191,Female,0,20.0,46.64,922.98,Month-to-month,Fiber optic,Yes,2020-05-13,,Yes
+CUST-001192,Male,0,12.0,121.19,1526.85,One year,No,No,2021-09-05,Complained about service outage in the area.,No
+CUST-001193,Male,1,50.0,55.97,3064.58,Month-to-month,DSL,Yes,2021-11-08,,Yes
+CUST-001194,Male,1,37.0,66.44,2439.1,Two year,No,Yes,2024-01-28,,No
+CUST-001195,Male,0,45.0,39.09,1809.19,Month-to-month,,No,2022-09-19,"Called about billing issue, resolved same day.",No
+CUST-001196,Female,0,51.0,99.12,5478.4,Month-to-month,Fiber optic,Yes,2021-08-12,,No
+CUST-001197,Female,0,70.0,548.8032237803302,36485.23,Two year,Fiber optic,No,2021-12-10,"Called about billing issue, resolved same day.",Yes
+CUST-001198,Male,0,57.0,70.94, ,Month-to-month,DSL,No,2020-05-13,,No
+CUST-001199,Male,0,44.0,38.06,1539.85,Month-to-month,Fiber optic,Yes,2021-08-02,,No
+CUST-000636,Female,0,16.0,50.73,748.5,One year,Fiber optic,No,2020-04-28,,No
+CUST-000683,Male,1,69.0,84.99,5964.71,Two year,DSL,Yes,2022-04-13,"Called about billing issue, resolved same day.",No
+CUST-001033,Male,0,22.0,70.76,1470.11,Two year,DSL,Yes,2022-12-18,,No
+CUST-000190,Female,0,49.0,53.88,2710.01,Two year,No,No,2023-01-23,,No
+CUST-001083,Male,0,40.0,112.74,4484.16,Month-to-month,Fiber optic,No,2023-03-26,,No
+CUST-000283,Female,0,35.0,45.36,1597.7,Month-to-month,DSL,No,2021-06-19,,Yes
+CUST-000817,Male,0,7.0,27.58,191.8,Month-to-month,Fiber optic,No,2022-04-20,,Yes
+CUST-000314,Male,0,17.0,53.85,987.54,One year,Fiber optic,Yes,2021-01-25,,No
+CUST-000537,Female,0,8.0,67.04,490.4,Month-to-month,Fiber optic,Yes,2021-11-22,"Called about billing issue, resolved same day.",Yes
+CUST-000664,Female,0,43.0,44.97,1796.74,One year,Fiber optic,No,2021-01-13,,No
+CUST-000239,Female,1,45.0,56.96,2743.97,One year,No,No,2022-12-16,"Requested upgrade to fiber, scheduled for next week.",No
+CUST-000135,Female,0,21.0,44.3,966.2,Two year,DSL,Yes,2020-02-10,,No
+CUST-000335,Female,0,58.0,76.11,4488.68,Two year,No,No,2023-07-31,,No
+CUST-000189,Male,0,21.0,66.67,1480.59,One year,DSL,No,2023-07-14,,No
+CUST-000838,Female,0,1.0,47.96,52.26,Month-to-month,Fiber optic,Yes,2022-04-04,,Yes
+CUST-000321,Female,0,7.0,74.58,485.7,Month-to-month,Fiber optic,Yes,2022-11-21,,Yes
+CUST-001146,Female,0,38.0,103.46,4308.31,Month-to-month,Fiber optic,No,2022-12-20,,No
+CUST-000228,Male,0,39.0,87.0,3319.6,One year,Fiber optic,Yes,2021-07-05,"Requested upgrade to fiber, scheduled for next week.",No
+CUST-000480,Male,0,20.0,73.22,1560.1,Month-to-month,DSL,Yes,2021-05-04,"Long-time customer, referred two friends this year.",Yes
+CUST-001043,Male,0,26.0,76.55,1826.47,Month-to-month,Fiber optic,Yes,2023-06-23,,No
+CUST-999999,Male,0,12,55.5,600,Two year,DSL,No,2022-01-01,extra,field,overflow,Yes

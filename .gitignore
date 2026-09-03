@@ -1,0 +1,17 @@
+venv/
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+person1_engine/storage/datasets/*.parquet
+person1_engine/storage/datasets/*.json
+person1_engine/storage/jobs/*.json
+person1_engine/storage/reports/*.json
+!person1_engine/storage/**/.gitkeep
+
+person2_engine/storage/jobs/*.json
+person2_engine/storage/suggestions/*.json
+!person2_engine/storage/**/.gitkeep
+
+person2_engine/sample_data/fake_health_report.json

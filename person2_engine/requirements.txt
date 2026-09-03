@@ -1,0 +1,22 @@
+fastapi==0.115.0
+uvicorn[standard]==0.30.6
+pydantic==2.8.2
+pandas==2.2.2
+numpy==1.26.4
+pyarrow==17.0.0
+httpx==0.27.2
+
+# Optional (AutoGluon feature-generator enrichment — see app/suggestions/automl_enrichment.py).
+# Lazily imported: /suggest works fully without this installed, falling back to rule-based-only
+# suggestions. Uncomment to enable the enrichment layer.
+# autogluon.features==1.1.1
+
+# Optional (auto-sklearn corroboration — Linux/macOS only, no Windows wheels; see
+# app/suggestions/automl_enrichment.py for why this is a "peek", not a full run).
+# auto-sklearn==0.15.0
+
+# Optional (Celery/Redis backend for the job queue; in-memory backend needs neither)
+# celery==5.4.0
+# redis==5.0.8
+
+pytest==8.3.2

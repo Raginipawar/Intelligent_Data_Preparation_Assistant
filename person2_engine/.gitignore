@@ -1,0 +1,11 @@
+venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+storage/jobs/*.json
+storage/suggestions/*.json
+!storage/jobs/.gitkeep
+!storage/suggestions/.gitkeep
+
+sample_data/fake_health_report.json
