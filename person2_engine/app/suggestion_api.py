@@ -15,6 +15,7 @@ engines, and uses the same get_job_queue() pattern (app/jobs/suggestion_job_queu
 from __future__ import annotations
 
 from fastapi import FastAPI, HTTPException
+from fastapi.middleware.cors import CORSMiddleware
 from fastapi.responses import JSONResponse
 
 from app import suggestion_config as config
@@ -30,6 +31,16 @@ app = FastAPI(
         "list of preprocessing/feature-engineering suggestions for Person 3 to apply."
     ),
     version=config.ENGINE_VERSION,
+)
+
+# The frontend (frontend/, Vite dev server) calls this API directly from the
+# browser, so it needs CORS — wide open here since this is local-first dev,
+# not a deployed service. Tighten allow_origins before any real deployment.
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["*"],
+    allow_methods=["*"],
+    allow_headers=["*"],
 )
 
 

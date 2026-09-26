@@ -1,0 +1,12 @@
+**/venv/
+**/__pycache__/
+**/*.pyc
+**/.pytest_cache/
+**/storage/*.json
+**/storage/*.parquet
+**/storage/*.csv
+**/storage/*.zip
+!**/storage/**/.gitkeep
+frontend/node_modules/
+frontend/dist/
+.git/

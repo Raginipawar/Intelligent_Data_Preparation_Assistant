@@ -1,0 +1,20 @@
+# Copyright (c) Ragini Pawar. All rights reserved.
+#
+# Render Blueprint — deploys the combined backend (all 4 engines + gateway,
+# see Dockerfile/start.sh) as one free-tier web service.
+#
+# Usage: on render.com, "New +" -> "Blueprint", point it at this repo. Render
+# reads this file automatically. ALLOWED_ORIGINS needs to be set to your real
+# deployed frontend URL once you have it (Render dashboard -> service ->
+# Environment -> edit ALLOWED_ORIGINS) — see DEPLOY.md.
+services:
+  - type: web
+    name: automl-backend
+    runtime: docker
+    dockerfilePath: ./Dockerfile
+    dockerContext: .
+    plan: free
+    healthCheckPath: /health
+    envVars:
+      - key: ALLOWED_ORIGINS
+        value: "*" # tighten to your Vercel URL after the frontend is deployed

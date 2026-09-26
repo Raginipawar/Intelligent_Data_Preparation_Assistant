@@ -153,29 +153,81 @@ Each stage exposes its own FastAPI endpoint and consumes the previous stage's JS
 | Backend API | FastAPI |
 | Background Jobs | Async background tasks / Celery + Redis |
 | Frontend | React (owned separately, outside the 4-person engine split) |
-| Deployment | Local-first; cloud deployment deferred until post-validation |
+| Deployment | Docker + a reverse-proxy gateway merging all 4 engines into one hosted service, plus a static frontend build. See [`DEPLOY.md`](DEPLOY.md) |
 
 ---
 
 ## Module Overview
 
-| Component | File | Description |
-|-----------|------|-------------|
-| Ingestion & Profiling | `profiling_engine.py` | Parses uploads, infers dtypes, builds the Dataset Health Report |
-| Suggestion Engine | `suggestion_engine.py` | Runs AutoGluon/auto-sklearn, generates ranked preprocessing/FE suggestions |
-| Transform Engine | `transform_engine.py` | Applies selected suggestions, resolves conflicts, exports final dataset |
-| Recommendation Engine | `recommend_engine.py` | Meta-learning based algorithm shortlist and ranking |
-| API Layer | `main.py` | FastAPI app wiring `/upload`, `/analyze`, `/suggest`, `/apply`, `/export`, `/recommend` |
+Each stage ended up as its own independent FastAPI microservice, not four
+modules under one `main.py` — every engine defines its own top-level `app`
+package (to avoid namespace collisions if two ever ran in the same process),
+resolves the previous stage's output from that engine's local storage or live
+API by `dataset_id`/`source_job_id`, and writes only to its own `storage/`.
+All four are wired together and integration-tested against each other, plus a
+separately-owned frontend that calls all four directly from the browser.
+
+| Stage | Folder | Entry point | Port |
+|-------|--------|-------------|------|
+| 1 — Ingestion & Deep Analysis | `person1_engine/` | `app/main.py` (`/upload`, `/analyze`) | 8000 |
+| 2 — Preprocessing Suggestions | `person2_engine/` | `app/suggestion_api.py` (`/suggest`) | 8001 |
+| 3 — Execution / Transform (Apply) | `person3_engine/` | `app/apply_api.py` (`/apply`, `/export`) | 8002 |
+| 4 — Algorithm Recommendation | `person4_engine/` | `app/recommend_api.py` (`/recommend`) | 8003 |
+| Frontend | `frontend/` | React + Vite SPA | 5173 |
+
+Every engine also exposes `GET /health`, `GET /status/{job_id}`, and
+`GET /result/{job_id}` following the same shared job-queue pattern
+(`get_job_queue()`), so all four poll identically from the frontend's
+perspective. See each folder's own README for its exact contract, and
+`frontend/README.md` for how the UI ties them together (including two
+cross-engine bugs found and fixed during integration).
 
 ---
 
 ## How to Run
 
-1. Clone the repository and open a terminal in the project folder.
-2. Create and activate a virtual environment (e.g. `python -m venv venv` and `venv\Scripts\activate` on Windows).
-3. Install dependencies: `pip install -r requirements.txt`
-4. Run the backend: `uvicorn main:app --reload`
-5. Upload a dataset via the `/upload` endpoint (or the UI, once integrated) to start the pipeline.
+Each engine needs its own virtual environment and its own terminal (they're
+independent processes, deliberately — see "Module Overview" above):
+
+```bash
+# terminal 1
+cd person1_engine && python -m venv venv && venv\Scripts\activate
+pip install -r requirements.txt
+uvicorn app.main:app --reload --port 8000
+
+# terminal 2
+cd person2_engine && python -m venv venv && venv\Scripts\activate
+pip install -r requirements.txt
+uvicorn app.suggestion_api:app --reload --port 8001
+
+# terminal 3
+cd person3_engine && python -m venv venv && venv\Scripts\activate
+pip install -r requirements.txt
+uvicorn app.apply_api:app --reload --port 8002
+
+# terminal 4
+cd person4_engine && python -m venv venv && venv\Scripts\activate
+pip install -r requirements.txt
+uvicorn app.recommend_api:app --reload --port 8003
+
+# terminal 5
+cd frontend
+npm install
+npm run dev          # http://localhost:5173
+```
+
+Then either drive the pipeline through the UI (`/workspace` → Upload →
+Analyze → Suggest → Apply & Export → Recommend), or call the four APIs
+directly in that order via curl/Postman — each engine's README has a full
+curl walkthrough, both standalone (its own fixtures, no other engine needed)
+and integrated (chained `dataset_id`/`source_job_id` values).
+
+**Windows + Python 3.14 note:** several engines pin older exact dependency
+versions (e.g. `numpy==1.26.4`) that predate Python 3.14 and have no
+prebuilt Windows wheel, so `pip install -r requirements.txt` may try to
+compile from source and fail. Installing the same package set without exact
+version pins (letting pip resolve the latest compatible wheels) works around
+this without needing to edit any `requirements.txt`.
 
 ---
 
@@ -211,7 +263,7 @@ Each stage exposes its own FastAPI endpoint and consumes the previous stage's JS
 ## Future Scope
 
 - Image dataset support (currently sidelined to keep scope tabular-first)
-- Cloud deployment once validated locally with real users
+- Persistent storage (a real database instead of local disk) and a process supervisor for the backend container, now that it's actually deployed (see `DEPLOY.md`'s Known Limitations)
 - Interactive "focus on this feature" conversational interface
 - Automated model training and deployment beyond just recommendation
 - Support for time-series and text datasets

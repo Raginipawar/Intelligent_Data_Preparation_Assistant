@@ -15,3 +15,15 @@ person2_engine/storage/suggestions/*.json
 !person2_engine/storage/**/.gitkeep
 
 person2_engine/sample_data/fake_health_report.json
+
+person3_engine/storage/datasets/*.parquet
+person3_engine/storage/datasets/*.json
+person3_engine/storage/applied/*.parquet
+person3_engine/storage/applied/*.json
+person3_engine/storage/exports/*
+person3_engine/storage/jobs/*.json
+!person3_engine/storage/**/.gitkeep
+
+person4_engine/storage/jobs/*.json
+person4_engine/storage/recommendations/*.json
+!person4_engine/storage/**/.gitkeep

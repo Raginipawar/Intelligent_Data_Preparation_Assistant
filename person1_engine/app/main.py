@@ -16,6 +16,7 @@ new_job() -> submit() -> get_job() flow, same dataset_id handoff.
 from __future__ import annotations
 
 from fastapi import FastAPI, File, HTTPException, UploadFile
+from fastapi.middleware.cors import CORSMiddleware
 from fastapi.responses import JSONResponse
 
 from app import config, pipeline
@@ -26,6 +27,16 @@ app = FastAPI(
     title="Person 1 — Ingestion & Deep Analysis Engine",
     description="Turns a raw CSV/ZIP upload into a structured Dataset Health Report.",
     version=config.ENGINE_VERSION,
+)
+
+# The frontend (frontend/, Vite dev server) calls this API directly from the
+# browser, so it needs CORS — wide open here since this is local-first dev,
+# not a deployed service. Tighten allow_origins before any real deployment.
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["*"],
+    allow_methods=["*"],
+    allow_headers=["*"],
 )
 
 
